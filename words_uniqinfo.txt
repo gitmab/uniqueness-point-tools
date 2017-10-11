@@ -1,0 +1,1488 @@
+HOSTESS  ( 6 :  HH OW1 S T AH0 S )
+	 1 :  6706 competitors ( more than 20 )
+	 2 :  421 competitors ( more than 20 )
+	 3 :  11 competitors ( HOESLY, HOSEK, HOST, HOST'S, HOSTED, HOSTER, HOSTERMAN, HOSTESSES, HOSTESSES(1), HOSTING, HOSTS )
+	 4 :  9 competitors ( HOST, HOST'S, HOSTED, HOSTER, HOSTERMAN, HOSTESSES, HOSTESSES(1), HOSTING, HOSTS )
+	 5 :  2 competitors ( HOSTESSES, HOSTESSES(1) )
+	 6 :  2 competitors ( HOSTESSES, HOSTESSES(1) )
+	uniqueness point:  7 
+
+CHAPERONES  ( 7 :  SH AE1 P ER0 OW2 N Z )
+	 1 :  2487 competitors ( more than 20 )
+	 2 :  196 competitors ( more than 20 )
+	 3 :  13 competitors ( CHAPDELAINE, CHAPERONE, CHAPERONING, CHAPPELEAR, CHAPPUIS, SCHAPIRO, SCHAPP, SCHAPPELL, SCHAPPERT, SHAP, SHAPLEY, SHAPP, SHAPPELL )
+	 4 :  3 competitors ( CHAPERONE, CHAPERONING, SCHAPPERT )
+	 5 :  2 competitors ( CHAPERONE, CHAPERONING )
+	 6 :  2 competitors ( CHAPERONE, CHAPERONING )
+	 7 :  0 competitors (  )
+	uniqueness point:  7 
+
+PLAN  ( 4 :  P L AE1 N )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  529 competitors ( more than 20 )
+	 3 :  104 competitors ( more than 20 )
+	 4 :  35 competitors ( more than 20 )
+	uniqueness point:  5 
+
+DIRECTOR  ( 6 :  D ER0 EH1 K T ER0 )
+	 1 :  7735 competitors ( more than 20 )
+	 2 :  56 competitors ( more than 20 )
+	 3 :  28 competitors ( more than 20 )
+	 4 :  25 competitors ( more than 20 )
+	 5 :  21 competitors ( more than 20 )
+	 6 :  10 competitors ( DERECKTOR, DIRECTOR'S(1), DIRECTORAL, DIRECTORATE, DIRECTORIES(1), DIRECTORS, DIRECTORS'(1), DIRECTORSHIP, DIRECTORSHIPS, DIRECTORY )
+	uniqueness point:  7 
+
+ORPHAN  ( 5 :  AO1 R F AH0 N )
+	 1 :  656 competitors ( more than 20 )
+	 2 :  260 competitors ( more than 20 )
+	 3 :  12 competitors ( ORF, ORFIELD, ORFORD, ORPHANAGE, ORPHANAGES, ORPHANED, ORPHANING, ORPHANS, ORPHEE, ORPHEUM, ORPHEUS, ORPHIC )
+	 4 :  5 competitors ( ORPHANAGE, ORPHANAGES, ORPHANED, ORPHANING, ORPHANS )
+	 5 :  5 competitors ( ORPHANAGE, ORPHANAGES, ORPHANED, ORPHANING, ORPHANS )
+	uniqueness point:  6 
+
+FOREMAN  ( 6 :  F AO1 R M AH0 N )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  397 competitors ( more than 20 )
+	 3 :  304 competitors ( more than 20 )
+	 4 :  41 competitors ( more than 20 )
+	 5 :  18 competitors ( FOREMEN, FORMA, FORMAL, FORMALISM, FORMALIST, FORMALIZATION, FORMALIZE, FORMALIZED, FORMALIZES, FORMALIZING, FORMALLY, FORMANEK, FORMANT, FORMANTS, FORMATIVE, FORMIDABLE, FORMIDABLY, FOURMAN )
+	 6 :  5 competitors ( FOREMEN, FORMANEK, FORMANT, FORMANTS, FOURMAN )
+	uniqueness point:  7 
+
+PUNDITS  ( 7 :  P AH1 N D IH0 T S )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  178 competitors ( more than 20 )
+	 3 :  30 competitors ( more than 20 )
+	 4 :  3 competitors ( PANDIT, PUNDIT, PUNDITRY )
+	 5 :  0 competitors (  )
+	uniqueness point:  5 
+
+FAN  ( 3 :  F AE1 N )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  283 competitors ( more than 20 )
+	 3 :  57 competitors ( more than 20 )
+	uniqueness point:  4 
+
+CRITICS  ( 7 :  K R IH1 T IH0 K S )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1496 competitors ( more than 20 )
+	 3 :  248 competitors ( more than 20 )
+	 4 :  20 competitors ( CRITIC, CRITIC'S, CRITICAL, CRITICALLY, CRITICALLY(1), CRITICISM, CRITICISMS, CRITICIZE, CRITICIZED, CRITICIZES, CRITICIZING, CRITICS', CRITSER, CRITTENDON, CRITTER, CRITTERS, CRITZ, CRITZER, KRITZ, KRITZER )
+	 5 :  11 competitors ( CRITIC, CRITIC'S, CRITICAL, CRITICALLY, CRITICALLY(1), CRITICISM, CRITICISMS, CRITICIZE, CRITICIZES, CRITICIZING, CRITICS' )
+	 6 :  6 competitors ( CRITIC, CRITIC'S, CRITICAL, CRITICALLY, CRITICALLY(1), CRITICS' )
+	 7 :  2 competitors ( CRITIC'S, CRITICS' )
+	uniqueness point:  8 
+
+HONESTY  ( 6 :  AA1 N AH0 S T IY0 )
+	 1 :  1094 competitors ( more than 20 )
+	 2 :  72 competitors ( more than 20 )
+	 3 :  9 competitors ( ANA, HONEST, HONESTLY, HONESTLY(1), HONORE, HONOURARY, ONAGERS, ONEALL, ONNEN )
+	 4 :  3 competitors ( HONEST, HONESTLY, HONESTLY(1) )
+	 5 :  2 competitors ( HONEST, HONESTLY )
+	 6 :  0 competitors (  )
+	uniqueness point:  6 
+
+UNDERGRAD  ( 8 :  AH1 N D ER0 G R AE2 D )
+	 1 :  375 competitors ( more than 20 )
+	 2 :  152 competitors ( more than 20 )
+	 3 :  119 competitors ( more than 20 )
+	 4 :  117 competitors ( more than 20 )
+	 5 :  5 competitors ( UNDERGARMENT, UNDERGARMENTS, UNDERGOES, UNDERGROUND, UNDERGROWTH )
+	 6 :  2 competitors ( UNDERGROUND, UNDERGROWTH )
+	 7 :  0 competitors (  )
+	uniqueness point:  7 
+
+CREDENZA  ( 8 :  K R AH0 D EH1 N Z AH0 )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1496 competitors ( more than 20 )
+	 3 :  25 competitors ( more than 20 )
+	 4 :  3 competitors ( CREDENTIAL(1), CREDENTIALED, CREDENTIALS )
+	 5 :  3 competitors ( CREDENTIAL(1), CREDENTIALED, CREDENTIALS )
+	 6 :  3 competitors ( CREDENTIAL(1), CREDENTIALED, CREDENTIALS )
+	 7 :  0 competitors (  )
+	uniqueness point:  7 
+
+PIZZA  ( 5 :  P IY1 T S AH0 )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  236 competitors ( more than 20 )
+	 3 :  47 competitors ( more than 20 )
+	 4 :  10 competitors ( PAETZ, PEAT'S, PEET'S, PEETS, PEETZ, PEITZ, PETE'S, PIETZ, PIZZA'S, PIZZAS )
+	 5 :  2 competitors ( PIZZA'S, PIZZAS )
+	uniqueness point:  6 
+
+FILE  ( 3 :  F AY1 L )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  223 competitors ( more than 20 )
+	 3 :  16 competitors ( FEILER, FILA, FILED, FILEGATE, FILENET, FILER, FILERS, FILES, FILING, FILINGS, FILOFAX(1), PFEIL, PHYLA, PHYLE, PHYLIS, PHYLUM )
+	uniqueness point:  4 
+
+ATTENDANT  ( 8 :  AH0 T EH1 N D AH0 N T )
+	 1 :  2626 competitors ( more than 20 )
+	 2 :  96 competitors ( more than 20 )
+	 3 :  29 competitors ( more than 20 )
+	 4 :  19 competitors ( ATENCIO, ATTEND, ATTENDANCE, ATTENDANT'S, ATTENDANTS, ATTENDANTS', ATTENDED, ATTENDEE, ATTENDEES, ATTENDING, ATTENDS, ATTENTION, ATTENTIONS, ATTENTIVE, ATTENTIVELY, ATTENTIVENESS, ATTENUATE, ATTENUATED, ATTENUATES )
+	 5 :  10 competitors ( ATTEND, ATTENDANCE, ATTENDANT'S, ATTENDANTS, ATTENDANTS', ATTENDED, ATTENDEE, ATTENDEES, ATTENDING, ATTENDS )
+	 6 :  5 competitors ( ATTENDANCE, ATTENDANT'S, ATTENDANTS, ATTENDANTS', ATTENDED )
+	 7 :  4 competitors ( ATTENDANCE, ATTENDANT'S, ATTENDANTS, ATTENDANTS' )
+	 8 :  3 competitors ( ATTENDANT'S, ATTENDANTS, ATTENDANTS' )
+	uniqueness point:  9 
+
+TRAY  ( 3 :  T R EY1 )
+	 1 :  4893 competitors ( more than 20 )
+	 2 :  1190 competitors ( more than 20 )
+	 3 :  90 competitors ( more than 20 )
+	uniqueness point:  4 
+
+AGENT  ( 5 :  EY1 JH AH0 N T )
+	 1 :  419 competitors ( more than 20 )
+	 2 :  24 competitors ( more than 20 )
+	 3 :  7 competitors ( AGENCIES, AGENCIES', AGENCY, AGENCY'S, AGENT'S, AGENTS, AGENTS' )
+	 4 :  7 competitors ( AGENCIES, AGENCIES', AGENCY, AGENCY'S, AGENT'S, AGENTS, AGENTS' )
+	 5 :  3 competitors ( AGENT'S, AGENTS, AGENTS' )
+	uniqueness point:  6 
+
+QUEEN  ( 4 :  K W IY1 N )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  470 competitors ( more than 20 )
+	 3 :  27 competitors ( more than 20 )
+	 4 :  13 competitors ( QUEEN'S, QUEENA, QUEENAN, QUEENER, QUEENFISH, QUEENFISH'S, QUEENIE, QUEENS, QUEENSBERRY, QUEENSLAND, QUEENSWAY, QUINA, QUINA'S )
+	uniqueness point:  5 
+
+CUSTOMER  ( 7 :  K AH1 S T AH0 M ER0 )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  439 competitors ( more than 20 )
+	 3 :  33 competitors ( more than 20 )
+	 4 :  18 competitors ( CUSSED, CUSTARD, CUSTER, CUSTER'S, CUSTIS, CUSTODY, CUSTOM, CUSTOMARY, CUSTOMER'S, CUSTOMERS, CUSTOMERS', CUSTOMIZE, CUSTOMIZED, CUSTOMIZES, CUSTOMIZING, CUSTOMS, KUSTER, KUSTRA )
+	 5 :  11 competitors ( CUSTODY, CUSTOM, CUSTOMARY, CUSTOMER'S, CUSTOMERS, CUSTOMERS', CUSTOMIZE, CUSTOMIZED, CUSTOMIZES, CUSTOMIZING, CUSTOMS )
+	 6 :  10 competitors ( CUSTOM, CUSTOMARY, CUSTOMER'S, CUSTOMERS, CUSTOMERS', CUSTOMIZE, CUSTOMIZED, CUSTOMIZES, CUSTOMIZING, CUSTOMS )
+	 7 :  3 competitors ( CUSTOMER'S, CUSTOMERS, CUSTOMERS' )
+	uniqueness point:  8 
+
+AUNT  ( 3 :  AE1 N T )
+	 1 :  1913 competitors ( more than 20 )
+	 2 :  337 competitors ( more than 20 )
+	 3 :  72 competitors ( more than 20 )
+	uniqueness point:  4 
+
+BACK  ( 3 :  B AE1 K )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  756 competitors ( more than 20 )
+	 3 :  135 competitors ( more than 20 )
+	uniqueness point:  4 
+
+TRAINEES  ( 6 :  T R EY1 N IY1 Z )
+	 1 :  4893 competitors ( more than 20 )
+	 2 :  1190 competitors ( more than 20 )
+	 3 :  90 competitors ( more than 20 )
+	 4 :  15 competitors ( TRAIN, TRAIN'S, TRAINA, TRAINABLE, TRAINED, TRAINEE, TRAINER, TRAINERS, TRAINING, TRAINMEN, TRAINOR, TRAINS, TRANE, TRAYNHAM, TRAYNOR )
+	 5 :  1 competitors ( TRAINEE )
+	 6 :  0 competitors (  )
+	uniqueness point:  6 
+
+SERVANT  ( 6 :  S ER1 V AH0 N T )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  226 competitors ( more than 20 )
+	 3 :  45 competitors ( more than 20 )
+	 4 :  13 competitors ( CERVICAL, SERVAM, SERVAN, SERVANTS, SERVANTS', SERVICE, SERVICEABLE, SERVICEMAN, SERVICEMEN, SERVICES, SERVICES'(1), SERVILE, SERVITUDE )
+	 5 :  3 competitors ( SERVAN, SERVANTS, SERVANTS' )
+	 6 :  2 competitors ( SERVANTS, SERVANTS' )
+	uniqueness point:  7 
+
+LIBRARIAN  ( 9 :  L AY0 B R EH1 R IY2 AH0 N )
+	 1 :  5488 competitors ( more than 20 )
+	 2 :  7 competitors ( LEISTIKOW, LIACOS, LIBRARIANS, LICENTIOUS, LIGATION, LIONETTI(1), LYCURGUS )
+	 3 :  1 competitors ( LIBRARIANS )
+	 4 :  1 competitors ( LIBRARIANS )
+	 5 :  1 competitors ( LIBRARIANS )
+	 6 :  1 competitors ( LIBRARIANS )
+	 7 :  1 competitors ( LIBRARIANS )
+	 8 :  1 competitors ( LIBRARIANS )
+	 9 :  1 competitors ( LIBRARIANS )
+	uniqueness point:  10 
+
+ROOKIE  ( 4 :  R UH1 K IY0 )
+	 1 :  7461 competitors ( more than 20 )
+	 2 :  17 competitors ( ROOF(1), ROOK, ROOKARD, ROOKE, ROOKER, ROOKIES, ROOKS, ROOKSTOOL, ROORDA, ROUTES(2), RUEGER, RUEGSEGGER, RUEHL, RUHR, RUHRGAS, RURAL, RURIK )
+	 3 :  7 competitors ( ROOK, ROOKARD, ROOKE, ROOKER, ROOKIES, ROOKS, ROOKSTOOL )
+	 4 :  1 competitors ( ROOKIES )
+	uniqueness point:  5 
+
+TEACHER  ( 4 :  T IY1 CH ER0 )
+	 1 :  4893 competitors ( more than 20 )
+	 2 :  176 competitors ( more than 20 )
+	 3 :  11 competitors ( TEACH, TEACHABLE, TEACHER'S, TEACHERS, TEACHERS', TEACHES, TEACHES(1), TEACHEY, TEACHING, TEACHINGS, TEACHOUT )
+	 4 :  3 competitors ( TEACHER'S, TEACHERS, TEACHERS' )
+	uniqueness point:  5 
+
+CASSEROLE  ( 6 :  K AE1 S ER0 OW2 L )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1151 competitors ( more than 20 )
+	 3 :  142 competitors ( more than 20 )
+	 4 :  3 competitors ( CASSAR, CASSERLY, KASSAR )
+	 5 :  0 competitors (  )
+	uniqueness point:  5 
+
+JOURNALISTS  ( 9 :  JH ER1 N AH0 L AH0 S T S )
+	 1 :  2159 competitors ( more than 20 )
+	 2 :  76 competitors ( more than 20 )
+	 3 :  19 competitors ( JERNBERG, JERNIGAN, JOURNAL, JOURNAL'S, JOURNALISM, JOURNALISM'S, JOURNALIST, JOURNALIST(1), JOURNALIST'S, JOURNALISTS(1), JOURNALISTS', JOURNALS, JOURNEY, JOURNEYED, JOURNEYING, JOURNEYMAN, JOURNEYMAN'S, JOURNEYS, JURNEY )
+	 4 :  10 competitors ( JOURNAL, JOURNAL'S, JOURNALISM, JOURNALISM'S, JOURNALIST, JOURNALIST(1), JOURNALIST'S, JOURNALISTS(1), JOURNALISTS', JOURNALS )
+	 5 :  10 competitors ( JOURNAL, JOURNAL'S, JOURNALISM, JOURNALISM'S, JOURNALIST, JOURNALIST(1), JOURNALIST'S, JOURNALISTS(1), JOURNALISTS', JOURNALS )
+	 6 :  1 competitors ( JOURNALIST )
+	 7 :  1 competitors ( JOURNALIST )
+	 8 :  1 competitors ( JOURNALIST )
+	 9 :  0 competitors (  )
+	uniqueness point:  9 
+
+MARBLE  ( 6 :  M AA1 R B AH0 L )
+	 1 :  9491 competitors ( more than 20 )
+	 2 :  873 competitors ( more than 20 )
+	 3 :  420 competitors ( more than 20 )
+	 4 :  12 competitors ( MARBACH, MARBERRY, MARBIL, MARBLE'S, MARBLED, MARBLEHEAD, MARBLES, MARBOD, MARBRY, MARBURGER, MARBURY, MARBUT )
+	 5 :  5 competitors ( MARBLE'S, MARBLED, MARBLEHEAD, MARBLES, MARBUT )
+	 6 :  4 competitors ( MARBLE'S, MARBLED, MARBLEHEAD, MARBLES )
+	uniqueness point:  7 
+
+OPENING  ( 6 :  OW1 P AH0 N IH0 NG )
+	 1 :  658 competitors ( more than 20 )
+	 2 :  34 competitors ( more than 20 )
+	 3 :  23 competitors ( more than 20 )
+	 4 :  14 competitors ( (OPEN-PARENTHESES, OPEN, OPEN-ENDED, OPEN-SOURCE, OPENED, OPENER, OPENERS, OPENINGS, OPENLY, OPENNESS, OPENNESS(1), OPENS, OPENSHAW, OPENWORK )
+	 5 :  1 competitors ( OPENINGS )
+	 6 :  1 competitors ( OPENINGS )
+	uniqueness point:  7 
+
+COUNTER  ( 5 :  K AW1 N T ER0 )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  205 competitors ( more than 20 )
+	 3 :  119 competitors ( more than 20 )
+	 4 :  74 competitors ( more than 20 )
+	 5 :  57 competitors ( more than 20 )
+	uniqueness point:  6 
+
+VINES  ( 4 :  V AY1 N Z )
+	 1 :  2409 competitors ( more than 20 )
+	 2 :  105 competitors ( more than 20 )
+	 3 :  9 competitors ( VAJNA, VINAL, VINE, VINELAND, VINER, VINEY, VINING, VINING'S, VINYL )
+	 4 :  0 competitors (  )
+	uniqueness point:  4 
+
+ANIMAL  ( 6 :  AE1 N AH0 M AH0 L )
+	 1 :  1913 competitors ( more than 20 )
+	 2 :  337 competitors ( more than 20 )
+	 3 :  66 competitors ( more than 20 )
+	 4 :  16 competitors ( ANIMAL'S, ANIMALS, ANIMALS', ANIMATE, ANIMATE(1), ANIMATED, ANIMATES, ANIMATES(1), ANIMATOR, ANIMATORS, ANIMISM, ANIMIST, ANIMISTS, ANIMISTS(1), ANNUM, ANOMIE )
+	 5 :  8 competitors ( ANIMAL'S, ANIMALS, ANIMALS', ANIMATE, ANIMATES, ANIMIST, ANIMISTS, ANIMISTS(1) )
+	 6 :  3 competitors ( ANIMAL'S, ANIMALS, ANIMALS' )
+	uniqueness point:  7 
+
+SAMPLES  ( 7 :  S AE1 M P AH0 L Z )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  587 competitors ( more than 20 )
+	 3 :  79 competitors ( more than 20 )
+	 4 :  22 competitors ( more than 20 )
+	 5 :  3 competitors ( SAMPLE, SAMPLE'S, SAMPLED )
+	 6 :  3 competitors ( SAMPLE, SAMPLE'S, SAMPLED )
+	 7 :  1 competitors ( SAMPLE'S )
+	uniqueness point:  8 
+
+REPORT  ( 6 :  R IY0 P AO1 R T )
+	 1 :  7461 competitors ( more than 20 )
+	 2 :  1030 competitors ( more than 20 )
+	 3 :  106 competitors ( more than 20 )
+	 4 :  5 competitors ( REPORT'S, REPORTEDLY(1), REPORTING, REPORTS(1), REPORTS'(1) )
+	 5 :  5 competitors ( REPORT'S, REPORTEDLY(1), REPORTING, REPORTS(1), REPORTS'(1) )
+	 6 :  5 competitors ( REPORT'S, REPORTEDLY(1), REPORTING, REPORTS(1), REPORTS'(1) )
+	uniqueness point:  7 
+
+COMPUTER  ( 8 :  K AH0 M P Y UW1 T ER0 )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1485 competitors ( more than 20 )
+	 3 :  337 competitors ( more than 20 )
+	 4 :  163 competitors ( more than 20 )
+	 5 :  19 competitors ( COMPUTE, COMPUTED, COMPUTED(1), COMPUTER'S, COMPUTER-GENERATED, COMPUTERCRAFT, COMPUTERIZATION, COMPUTERIZE, COMPUTERIZED, COMPUTERIZING, COMPUTERLAND, COMPUTERLAND'S, COMPUTERLIKE, COMPUTERS, COMPUTERS', COMPUTERVISION, COMPUTERWORLD, COMPUTES, COMPUTING )
+	 6 :  18 competitors ( COMPUTE, COMPUTED, COMPUTED(1), COMPUTER'S, COMPUTER-GENERATED, COMPUTERCRAFT, COMPUTERIZE, COMPUTERIZED, COMPUTERIZING, COMPUTERLAND, COMPUTERLAND'S, COMPUTERLIKE, COMPUTERS, COMPUTERS', COMPUTERVISION, COMPUTERWORLD, COMPUTES, COMPUTING )
+	 7 :  18 competitors ( COMPUTE, COMPUTED, COMPUTED(1), COMPUTER'S, COMPUTER-GENERATED, COMPUTERCRAFT, COMPUTERIZE, COMPUTERIZED, COMPUTERIZING, COMPUTERLAND, COMPUTERLAND'S, COMPUTERLIKE, COMPUTERS, COMPUTERS', COMPUTERVISION, COMPUTERWORLD, COMPUTES, COMPUTING )
+	 8 :  13 competitors ( COMPUTER'S, COMPUTER-GENERATED, COMPUTERCRAFT, COMPUTERIZE, COMPUTERIZED, COMPUTERIZING, COMPUTERLAND, COMPUTERLAND'S, COMPUTERLIKE, COMPUTERS, COMPUTERS', COMPUTERVISION, COMPUTERWORLD )
+	uniqueness point:  9 
+
+BOY  ( 2 :  B OY1 )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  88 competitors ( more than 20 )
+	uniqueness point:  3 
+
+OPTIONS  ( 6 :  AA1 P SH AH0 N Z )
+	 1 :  1094 competitors ( more than 20 )
+	 2 :  80 competitors ( more than 20 )
+	 3 :  6 competitors ( OPTION, OPTION'S, OPTIONAL, OPTIONED, OPTIONING, OPTIONS' )
+	 4 :  6 competitors ( OPTION, OPTION'S, OPTIONAL, OPTIONED, OPTIONING, OPTIONS' )
+	 5 :  6 competitors ( OPTION, OPTION'S, OPTIONAL, OPTIONED, OPTIONING, OPTIONS' )
+	 6 :  2 competitors ( OPTION'S, OPTIONS' )
+	uniqueness point:  7 
+
+FAMILY  ( 6 :  F AE1 M AH0 L IY0 )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  283 competitors ( more than 20 )
+	 3 :  12 competitors ( FAMBRO, FAMBROUGH, FAMILIES, FAMILIES(1), FAMILIES', FAMILY(1), FAMILY'S, FAMILY'S(1), FAMINE, FAMINES, FAMISHED, PHAM )
+	 4 :  5 competitors ( FAMILIES, FAMILIES', FAMILY'S, FAMINE, FAMINES )
+	 5 :  3 competitors ( FAMILIES, FAMILIES', FAMILY'S )
+	 6 :  3 competitors ( FAMILIES, FAMILIES', FAMILY'S )
+	uniqueness point:  7 
+
+JUDGE  ( 3 :  JH AH1 JH )
+	 1 :  2159 competitors ( more than 20 )
+	 2 :  122 competitors ( more than 20 )
+	 3 :  11 competitors ( JUDGE'S, JUDGED, JUDGEMENT, JUDGEMENTS, JUDGES, JUDGES', JUDGESHIP, JUDGESHIPS, JUDGING, JUDGMENT, JUDGMENTS )
+	uniqueness point:  4 
+
+BEER  ( 3 :  B IH1 R )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  432 competitors ( more than 20 )
+	 3 :  46 competitors ( more than 20 )
+	uniqueness point:  4 
+
+NANNY  ( 4 :  N AE1 N IY0 )
+	 1 :  3414 competitors ( more than 20 )
+	 2 :  252 competitors ( more than 20 )
+	 3 :  27 competitors ( more than 20 )
+	 4 :  3 competitors ( NANNEY, NANNI, NANNIES )
+	uniqueness point:  5 
+
+COUNTERTOP  ( 8 :  K AW1 N T ER0 T AA2 P )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  205 competitors ( more than 20 )
+	 3 :  119 competitors ( more than 20 )
+	 4 :  74 competitors ( more than 20 )
+	 5 :  57 competitors ( more than 20 )
+	 6 :  4 competitors ( COUNTERTENOR, COUNTERTERRORISM, COUNTERTOPS, COUNTERTRADE )
+	 7 :  1 competitors ( COUNTERTOPS )
+	 8 :  1 competitors ( COUNTERTOPS )
+	uniqueness point:  9 
+
+BINDINGS  ( 7 :  B AY1 N D IH0 NG Z )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  201 competitors ( more than 20 )
+	 3 :  11 competitors ( BEINY, BINARIES, BINARY, BIND, BINDER, BINDERS, BINDING, BINDS, BINES, BYNER, BYNES )
+	 4 :  5 competitors ( BIND, BINDER, BINDERS, BINDING, BINDS )
+	 5 :  1 competitors ( BINDING )
+	 6 :  1 competitors ( BINDING )
+	 7 :  0 competitors (  )
+	uniqueness point:  7 
+
+PRICE  ( 4 :  P R AY1 S )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  1767 competitors ( more than 20 )
+	 3 :  77 competitors ( more than 20 )
+	 4 :  15 competitors ( PREISER, PREISLER, PREISLER(1), PREISS, PRICE'S, PRICED, PRICELESS, PRICER, PRICES, PRICES(1), PRICEY, PRICIER, PRICING, PRICINGS, PRYCE )
+	uniqueness point:  5 
+
+CHOREOGRAPHER  ( 10 :  K AO2 R IY0 AA1 G R AH0 F ER0 )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  85 competitors ( more than 20 )
+	 3 :  67 competitors ( more than 20 )
+	 4 :  6 competitors ( CHOREOGRAPHER'S, CHOREOGRAPHERS, CHOREOGRAPHIC, CHOREOGRAPHING, CHOREOGRAPHY, CORIANDER )
+	 5 :  4 competitors ( CHOREOGRAPHER'S, CHOREOGRAPHERS, CHOREOGRAPHING, CHOREOGRAPHY )
+	 6 :  4 competitors ( CHOREOGRAPHER'S, CHOREOGRAPHERS, CHOREOGRAPHING, CHOREOGRAPHY )
+	 7 :  4 competitors ( CHOREOGRAPHER'S, CHOREOGRAPHERS, CHOREOGRAPHING, CHOREOGRAPHY )
+	 8 :  4 competitors ( CHOREOGRAPHER'S, CHOREOGRAPHERS, CHOREOGRAPHING, CHOREOGRAPHY )
+	 9 :  4 competitors ( CHOREOGRAPHER'S, CHOREOGRAPHERS, CHOREOGRAPHING, CHOREOGRAPHY )
+	 10 :  2 competitors ( CHOREOGRAPHER'S, CHOREOGRAPHERS )
+	uniqueness point:  11 
+
+POOL  ( 3 :  P UW1 L )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  73 competitors ( more than 20 )
+	 3 :  18 competitors ( POOL'S, POOL-SIDE, POOLAS, POOLE, POOLED, POOLER, POOLEY, POOLING, POOLS, POOLSIDE, POUL, POULENC, POULENC'S, POULIOT, POULOS, PULEO, PULICE, PULOS )
+	uniqueness point:  4 
+
+FRUIT  ( 4 :  F R UW1 T )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  897 competitors ( more than 20 )
+	 3 :  23 competitors ( more than 20 )
+	 4 :  8 competitors ( FRUITCAKE, FRUITCAKES, FRUITFUL, FRUITING, FRUITLESS, FRUITLESSLY, FRUITS, FRUITY )
+	uniqueness point:  5 
+
+LETTER  ( 4 :  L EH1 T ER0 )
+	 1 :  5488 competitors ( more than 20 )
+	 2 :  571 competitors ( more than 20 )
+	 3 :  32 competitors ( more than 20 )
+	 4 :  7 competitors ( LETTERED, LETTERHEAD, LETTERING, LETTERMAN, LETTERMAN'S, LETTERPRESS, LETTERS )
+	uniqueness point:  5 
+
+COACH  ( 3 :  K OW1 CH )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  581 competitors ( more than 20 )
+	 3 :  8 competitors ( COACH'S, COACHED, COACHES, COACHING, COACHMAN, COCCIA, COCHAIRMAN, COCHIN )
+	uniqueness point:  4 
+
+SHOULDER  ( 5 :  SH OW1 L D ER0 )
+	 1 :  2487 competitors ( more than 20 )
+	 2 :  136 competitors ( more than 20 )
+	 3 :  24 competitors ( more than 20 )
+	 4 :  3 competitors ( SHOULDERED, SHOULDERING, SHOULDERS )
+	 5 :  3 competitors ( SHOULDERED, SHOULDERING, SHOULDERS )
+	uniqueness point:  6 
+
+PARTNER  ( 6 :  P AA1 R T N ER0 )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  564 competitors ( more than 20 )
+	 3 :  186 competitors ( more than 20 )
+	 4 :  50 competitors ( more than 20 )
+	 5 :  9 competitors ( PARTNER'S, PARTNERING, PARTNERS, PARTNERS', PARTNERSHIP, PARTNERSHIP'S, PARTNERSHIPS, PARTNERSHIPS', PARTNEY )
+	 6 :  8 competitors ( PARTNER'S, PARTNERING, PARTNERS, PARTNERS', PARTNERSHIP, PARTNERSHIP'S, PARTNERSHIPS, PARTNERSHIPS' )
+	uniqueness point:  7 
+
+COUNSELOR  ( 7 :  K AW1 N S AH0 L ER0 )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  205 competitors ( more than 20 )
+	 3 :  119 competitors ( more than 20 )
+	 4 :  20 competitors ( COUNCE, COUNCIL, COUNCIL'S, COUNCILMAN, COUNCILMEN, COUNCILOR, COUNCILORS, COUNCILS, COUNCILWOMAN, COUNCILWOMEN, COUNSEL, COUNSEL'S, COUNSELED, COUNSELING, COUNSELL, COUNSELLOR, COUNSELLORS, COUNSELMAN, COUNSELORS, COUNSELS )
+	 5 :  14 competitors ( COUNCIL, COUNCIL'S, COUNCILMAN, COUNCILMEN, COUNSEL, COUNSEL'S, COUNSELED, COUNSELING, COUNSELL, COUNSELLOR, COUNSELLORS, COUNSELMAN, COUNSELORS, COUNSELS )
+	 6 :  14 competitors ( COUNCIL, COUNCIL'S, COUNCILMAN, COUNCILMEN, COUNSEL, COUNSEL'S, COUNSELED, COUNSELING, COUNSELL, COUNSELLOR, COUNSELLORS, COUNSELMAN, COUNSELORS, COUNSELS )
+	 7 :  3 competitors ( COUNSELLOR, COUNSELLORS, COUNSELORS )
+	uniqueness point:  8 
+
+PEN  ( 3 :  P EH1 N )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  591 competitors ( more than 20 )
+	 3 :  140 competitors ( more than 20 )
+	uniqueness point:  4 
+
+POLICE  ( 5 :  P AH0 L IY1 S )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  292 competitors ( more than 20 )
+	 3 :  76 competitors ( more than 20 )
+	 4 :  10 competitors ( POLICE'S, POLICED, POLICEMAN, POLICEMAN'S, POLICEMEN, POLICES, POLICEWOMAN, POLICEWOMEN, POLICING, POLLINI )
+	 5 :  9 competitors ( POLICE'S, POLICED, POLICEMAN, POLICEMAN'S, POLICEMEN, POLICES, POLICEWOMAN, POLICEWOMEN, POLICING )
+	uniqueness point:  6 
+
+MONEY  ( 4 :  M AH1 N IY0 )
+	 1 :  9491 competitors ( more than 20 )
+	 2 :  405 competitors ( more than 20 )
+	 3 :  76 competitors ( more than 20 )
+	 4 :  18 competitors ( MONEY'S, MONEYCARD, MONEYCENTER, MONEYED, MONEYLESS, MONEYLINE, MONEYLINE'S, MONEYMAKER, MONEYMAKERS, MONEYMAKING, MONEYPENNY, MONEYS, MONEYWATCH, MONEYWEEK, MONEYWEEK'S, MONIED, MONIES, MUNNI(1) )
+	uniqueness point:  5 
+
+BAG  ( 3 :  B AE1 G )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  756 competitors ( more than 20 )
+	 3 :  32 competitors ( more than 20 )
+	uniqueness point:  4 
+
+SODA  ( 4 :  S OW1 D AH0 )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  212 competitors ( more than 20 )
+	 3 :  19 competitors ( SEWED, SOADY, SODA'S, SODAS, SODECOM, SODEN, SODER, SODERBERG, SODERBERGH, SODERBLOM, SODERHOLM, SODERMAN, SODIUM, SODUS, SOEDER, SOWDEN, SOWDER, SOWDERS, SOWED(1) )
+	 4 :  6 competitors ( SODA'S, SODAS, SODECOM, SODEN, SODUS, SOWDEN )
+	uniqueness point:  5 
+
+EARS  ( 3 :  IH1 R Z )
+	 1 :  896 competitors ( more than 20 )
+	 2 :  54 competitors ( more than 20 )
+	 3 :  0 competitors (  )
+	uniqueness point:  3 
+
+PRISONER  ( 7 :  P R IH1 Z AH0 N ER0 )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  1767 competitors ( more than 20 )
+	 3 :  133 competitors ( more than 20 )
+	 4 :  15 competitors ( PRISM, PRISMS, PRISON, PRISON'S, PRISONED, PRISONER(1), PRISONER'S, PRISONER'S(1), PRISONERS, PRISONERS(1), PRISONERS', PRISONERS'(1), PRISONS, PRIZANT, PRIZM )
+	 5 :  10 competitors ( PRISM, PRISMS, PRISON, PRISON'S, PRISONED, PRISONER'S, PRISONERS, PRISONERS', PRISONS, PRIZM )
+	 6 :  7 competitors ( PRISON, PRISON'S, PRISONED, PRISONER'S, PRISONERS, PRISONERS', PRISONS )
+	 7 :  3 competitors ( PRISONER'S, PRISONERS, PRISONERS' )
+	uniqueness point:  8 
+
+SERVER  ( 4 :  S ER1 V ER0 )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  226 competitors ( more than 20 )
+	 3 :  45 competitors ( more than 20 )
+	 4 :  1 competitors ( SERVERS )
+	uniqueness point:  5 
+
+READERS  ( 5 :  R IY1 D ER0 Z )
+	 1 :  7461 competitors ( more than 20 )
+	 2 :  430 competitors ( more than 20 )
+	 3 :  43 competitors ( more than 20 )
+	 4 :  14 competitors ( READER, READER'S, READERMAN, READERS', READERSHIP, REEDER, REEDERS, REIDER, REIDERS, REIDERS', RIEDER, RIEDERER, RIEDERS, RIEDERS' )
+	 5 :  7 competitors ( READER'S, READERS', REEDERS, REIDERS, REIDERS', RIEDERS, RIEDERS' )
+	uniqueness point:  6 
+
+INSTRUCTOR  ( 9 :  IH2 N S T R AH1 K T ER0 )
+	 1 :  2039 competitors ( more than 20 )
+	 2 :  1419 competitors ( more than 20 )
+	 3 :  216 competitors ( more than 20 )
+	 4 :  64 competitors ( more than 20 )
+	 5 :  22 competitors ( more than 20 )
+	 6 :  10 competitors ( INSTRUCT, INSTRUCTED, INSTRUCTED(1), INSTRUCTING, INSTRUCTION, INSTRUCTIONAL, INSTRUCTIONS, INSTRUCTIVE, INSTRUCTORS, INSTRUCTS )
+	 7 :  10 competitors ( INSTRUCT, INSTRUCTED, INSTRUCTED(1), INSTRUCTING, INSTRUCTION, INSTRUCTIONAL, INSTRUCTIONS, INSTRUCTIVE, INSTRUCTORS, INSTRUCTS )
+	 8 :  7 competitors ( INSTRUCT, INSTRUCTED, INSTRUCTED(1), INSTRUCTING, INSTRUCTIVE, INSTRUCTORS, INSTRUCTS )
+	 9 :  1 competitors ( INSTRUCTORS )
+	uniqueness point:  10 
+
+JUDGE  ( 3 :  JH AH1 JH )
+	 1 :  2159 competitors ( more than 20 )
+	 2 :  122 competitors ( more than 20 )
+	 3 :  11 competitors ( JUDGE'S, JUDGED, JUDGEMENT, JUDGEMENTS, JUDGES, JUDGES', JUDGESHIP, JUDGESHIPS, JUDGING, JUDGMENT, JUDGMENTS )
+	uniqueness point:  4 
+
+VOYAGERS  ( 6 :  V OY1 IH0 JH ER0 Z )
+	 1 :  2409 competitors ( more than 20 )
+	 2 :  39 competitors ( more than 20 )
+	 3 :  4 competitors ( VOYAGED(1), VOYAGER(1), VOYAGER'S, VOYAGES(1) )
+	 4 :  4 competitors ( VOYAGED(1), VOYAGER(1), VOYAGER'S, VOYAGES(1) )
+	 5 :  2 competitors ( VOYAGER(1), VOYAGER'S )
+	 6 :  1 competitors ( VOYAGER'S )
+	uniqueness point:  7 
+
+FOSSIL  ( 5 :  F AA1 S AH0 L )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  295 competitors ( more than 20 )
+	 3 :  39 competitors ( more than 20 )
+	 4 :  8 competitors ( FOSAMAX, FOSLER, FOSSEL, FOSSEN, FOSSILIZE, FOSSILIZED, FOSSILS, FOSSUM )
+	 5 :  5 competitors ( FOSLER, FOSSEL, FOSSILIZE, FOSSILIZED, FOSSILS )
+	uniqueness point:  6 
+
+CARDS  ( 5 :  K AA1 R D Z )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1460 competitors ( more than 20 )
+	 3 :  325 competitors ( more than 20 )
+	 4 :  31 competitors ( more than 20 )
+	 5 :  2 competitors ( CARD'S, CARDS' )
+	uniqueness point:  6 
+
+VISITORS  ( 7 :  V IH1 Z IH0 T ER0 Z )
+	 1 :  2409 competitors ( more than 20 )
+	 2 :  261 competitors ( more than 20 )
+	 3 :  13 competitors ( VISAGE, VISIBLE, VISIBLY, VISICALC, VISIGOTH, VISIGOTHS, VISIT, VISITED, VISITING, VISITOR, VISITOR'S, VISITORS', VISITS )
+	 4 :  8 competitors ( VISICALC, VISIT, VISITED, VISITING, VISITOR, VISITOR'S, VISITORS', VISITS )
+	 5 :  7 competitors ( VISIT, VISITED, VISITING, VISITOR, VISITOR'S, VISITORS', VISITS )
+	 6 :  3 competitors ( VISITOR, VISITOR'S, VISITORS' )
+	 7 :  2 competitors ( VISITOR'S, VISITORS' )
+	uniqueness point:  8 
+
+PIECES  ( 5 :  P IY1 S AH0 Z )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  236 competitors ( more than 20 )
+	 3 :  27 competitors ( more than 20 )
+	 4 :  3 competitors ( PEACEABLE, PEACEABLY, PISA )
+	 5 :  0 competitors (  )
+	uniqueness point:  5 
+
+ATHLETES  ( 6 :  AE1 TH L IY2 T S )
+	 1 :  1913 competitors ( more than 20 )
+	 2 :  9 competitors ( ATHA, ATHANS, ATHENEUM, ATHENS, ATHERTON, ATHEY, ATHLETE, ATHLETE'S, ATHLETES' )
+	 3 :  3 competitors ( ATHLETE, ATHLETE'S, ATHLETES' )
+	 4 :  3 competitors ( ATHLETE, ATHLETE'S, ATHLETES' )
+	 5 :  3 competitors ( ATHLETE, ATHLETE'S, ATHLETES' )
+	 6 :  2 competitors ( ATHLETE'S, ATHLETES' )
+	uniqueness point:  7 
+
+FATHER  ( 4 :  F AA1 DH ER0 )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  295 competitors ( more than 20 )
+	 3 :  9 competitors ( FATHER'S, FATHER-IN-LAW, FATHERED, FATHERHOOD, FATHERING, FATHERLAND, FATHERLESS, FATHERLY, FATHERS )
+	 4 :  9 competitors ( FATHER'S, FATHER-IN-LAW, FATHERED, FATHERHOOD, FATHERING, FATHERLAND, FATHERLESS, FATHERLY, FATHERS )
+	uniqueness point:  5 
+
+FOIL  ( 3 :  F OY1 L )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  19 competitors ( FEUCHT, FEUERBORN, FEULNER, FEUSTEL, FOIBLE, FOIBLES, FOIE(1), FOILED, FOILING, FOILS, FOIST, FOISTED, FOISTER, FOISY, FOY, FOYE, FOYER, FOYLE, FOYT )
+	 3 :  5 competitors ( FEULNER, FOILED, FOILING, FOILS, FOYLE )
+	uniqueness point:  4 
+
+BANKER  ( 5 :  B AE1 NG K ER0 )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  756 competitors ( more than 20 )
+	 3 :  82 competitors ( more than 20 )
+	 4 :  61 competitors ( more than 20 )
+	 5 :  4 competitors ( BANKER'S, BANKERS, BANKERS', BANKERT )
+	uniqueness point:  6 
+
+TOWEL  ( 4 :  T AW1 AH0 L )
+	 1 :  4893 competitors ( more than 20 )
+	 2 :  56 competitors ( more than 20 )
+	 3 :  2 competitors ( TOWELING, TOWELS )
+	 4 :  2 competitors ( TOWELING, TOWELS )
+	uniqueness point:  5 
+
+PASSENGERS  ( 8 :  P AE1 S AH0 N JH ER0 Z )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  504 competitors ( more than 20 )
+	 3 :  77 competitors ( more than 20 )
+	 4 :  14 competitors ( PACIFIED, PACIFIER, PACIFIERS, PACIFY, PASSABLE, PASSABLY, PASSAGE, PASSAGES, PASSAGEWAY, PASSENGER, PASSENGER'S, PASSENGERS', PASSES, PASSON )
+	 5 :  4 competitors ( PASSENGER, PASSENGER'S, PASSENGERS', PASSON )
+	 6 :  3 competitors ( PASSENGER, PASSENGER'S, PASSENGERS' )
+	 7 :  3 competitors ( PASSENGER, PASSENGER'S, PASSENGERS' )
+	 8 :  2 competitors ( PASSENGER'S, PASSENGERS' )
+	uniqueness point:  9 
+
+VENTS  ( 5 :  V EH1 N T S )
+	 1 :  2409 competitors ( more than 20 )
+	 2 :  218 competitors ( more than 20 )
+	 3 :  66 competitors ( more than 20 )
+	 4 :  18 competitors ( VENT, VENTECH, VENTED, VENTER, VENTERS, VENTI, VENTILATE, VENTILATED, VENTILATING, VENTILATOR, VENTING, VENTNER, VENTO, VENTRAL, VENTRE, VENTRES, VENTRESS, VENTRITEX )
+	 5 :  0 competitors (  )
+	uniqueness point:  5 
+
+HOSTAGE  ( 6 :  HH AA1 S T IH0 JH )
+	 1 :  6706 competitors ( more than 20 )
+	 2 :  849 competitors ( more than 20 )
+	 3 :  43 competitors ( more than 20 )
+	 4 :  10 competitors ( HOSTAGES, HOSTEL, HOSTELS, HOSTETLER, HOSTETTER, HOSTETTLER, HOSTETTLER(1), HOSTILE, HOSTUTLER, HOSTUTLER(1) )
+	 5 :  3 competitors ( HOSTETLER, HOSTETTER, HOSTETTLER )
+	 6 :  0 competitors (  )
+	uniqueness point:  6 
+
+HANDLE  ( 6 :  HH AE1 N D AH0 L )
+	 1 :  6706 competitors ( more than 20 )
+	 2 :  893 competitors ( more than 20 )
+	 3 :  227 competitors ( more than 20 )
+	 4 :  99 competitors ( more than 20 )
+	 5 :  16 competitors ( HANDA, HANDED, HANDEDNESS, HANDEL, HANDEL'S, HANDELMAN, HANDELS, HANDELSBANK, HANDILY, HANDLEBAR, HANDLEBARS, HANDLED, HANDLER(1), HANDLERS(1), HANDLES, HANDLING(1) )
+	 6 :  13 competitors ( HANDEL, HANDEL'S, HANDELMAN, HANDELS, HANDELSBANK, HANDILY, HANDLEBAR, HANDLEBARS, HANDLED, HANDLER(1), HANDLERS(1), HANDLES, HANDLING(1) )
+	uniqueness point:  7 
+
+ENTOURAGE  ( 7 :  AA2 N T UH0 R AA1 ZH )
+	 1 :  245 competitors ( more than 20 )
+	 2 :  26 competitors ( more than 20 )
+	 3 :  10 competitors ( ENTOURAGE(1), ENTOURAGES, ENTOURAGES(1), ENTREPRENEUR, ENTREPRENEUR(1), ENTREPRENEUR'S, ENTREPRENEURIAL, ENTREPRENEURS, ENTREPRENEURSHIP, ONTOLOGICAL )
+	 4 :  1 competitors ( ENTOURAGES )
+	 5 :  1 competitors ( ENTOURAGES )
+	 6 :  1 competitors ( ENTOURAGES )
+	 7 :  1 competitors ( ENTOURAGES )
+	uniqueness point:  8 
+
+SPICES  ( 6 :  S P AY1 S AH0 Z )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  908 competitors ( more than 20 )
+	 3 :  56 competitors ( more than 20 )
+	 4 :  8 competitors ( SPICE, SPICED, SPICELAND, SPICER, SPICES(1), SPICEY, SPICING, SPICY )
+	 5 :  0 competitors (  )
+	uniqueness point:  5 
+
+SECRETARY  ( 9 :  S EH1 K R AH0 T EH2 R IY0 )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  718 competitors ( more than 20 )
+	 3 :  74 competitors ( more than 20 )
+	 4 :  3 competitors ( SECRETARIES, SECRETARIES', SECRETARY'S )
+	 5 :  2 competitors ( SECRETARIES, SECRETARY'S )
+	 6 :  2 competitors ( SECRETARIES, SECRETARY'S )
+	 7 :  2 competitors ( SECRETARIES, SECRETARY'S )
+	 8 :  2 competitors ( SECRETARIES, SECRETARY'S )
+	 9 :  2 competitors ( SECRETARIES, SECRETARY'S )
+	uniqueness point:  10 
+
+WORD  ( 3 :  W ER1 D )
+	 1 :  3831 competitors ( more than 20 )
+	 2 :  228 competitors ( more than 20 )
+	 3 :  17 competitors ( WERDEN, WERDER, WERDESHEIM, WORD'S, WORDED, WORDELL, WORDEN, WORDING, WORDLESS, WORDPERFECT, WORDS, WORDS', WORDSMITH, WORDSTAR, WORDSWORTH, WORDY, WURDEMAN )
+	uniqueness point:  4 
+
+CHAUFFEUR  ( 4 :  SH OW0 F ER1 )
+	 1 :  2487 competitors ( more than 20 )
+	 2 :  7 competitors ( CHAUDOIN, CHAUFFEUR'S, CHAUFFEURED, CHAUFFEURS, CHAUVIN, SHOICHI, SHOSHONE )
+	 3 :  3 competitors ( CHAUFFEUR'S, CHAUFFEURED, CHAUFFEURS )
+	 4 :  3 competitors ( CHAUFFEUR'S, CHAUFFEURED, CHAUFFEURS )
+	uniqueness point:  5 
+
+BLANKET  ( 7 :  B L AE1 NG K AH0 T )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  690 competitors ( more than 20 )
+	 3 :  153 competitors ( more than 20 )
+	 4 :  22 competitors ( more than 20 )
+	 5 :  22 competitors ( more than 20 )
+	 6 :  8 competitors ( BLANKEN, BLANKENBAKER, BLANKENBECKLER, BLANKENBURG, BLANKENSHIP, BLANKETED, BLANKETING, BLANKETS )
+	 7 :  3 competitors ( BLANKETED, BLANKETING, BLANKETS )
+	uniqueness point:  8 
+
+NEPHEW  ( 5 :  N EH1 F Y UW0 )
+	 1 :  3414 competitors ( more than 20 )
+	 2 :  282 competitors ( more than 20 )
+	 3 :  7 competitors ( NEFF, NEFT, NEFTEGORSK, NEPHEW'S, NEPHEWS, NEPHRITE, NEPHRON )
+	 4 :  2 competitors ( NEPHEW'S, NEPHEWS )
+	 5 :  2 competitors ( NEPHEW'S, NEPHEWS )
+	uniqueness point:  6 
+
+PATIENT  ( 6 :  P EY1 SH AH0 N T )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  226 competitors ( more than 20 )
+	 3 :  6 competitors ( PATIENCE, PATIENT'S, PATIENTLY, PATIENTS, PATIENTS(1), PATIENTS' )
+	 4 :  6 competitors ( PATIENCE, PATIENT'S, PATIENTLY, PATIENTS, PATIENTS(1), PATIENTS' )
+	 5 :  6 competitors ( PATIENCE, PATIENT'S, PATIENTLY, PATIENTS, PATIENTS(1), PATIENTS' )
+	 6 :  4 competitors ( PATIENT'S, PATIENTLY, PATIENTS, PATIENTS' )
+	uniqueness point:  7 
+
+LLAMAS  ( 5 :  L AA1 M AH0 Z )
+	 1 :  5488 competitors ( more than 20 )
+	 2 :  350 competitors ( more than 20 )
+	 3 :  20 competitors ( LAHMAN, LAHMANN, LAMA, LAMA'S, LAMAIST, LAMAS, LAMASTER, LAMONS, LAMORE, LAMOS, LAMOTHE, LAMOUREAUX, LAMOUREUX, LLAMA, LOMASNEY, LOMB, LOMBA, LOMBARD, LOMBARDS, LOMPOC )
+	 4 :  7 competitors ( LAHMAN, LAHMANN, LAMA, LAMA'S, LAMAS, LLAMA, LOMASNEY )
+	 5 :  2 competitors ( LAMA'S, LAMAS )
+	uniqueness point:  6 
+
+INVESTOR  ( 7 :  IH2 N V EH1 S T ER0 )
+	 1 :  2039 competitors ( more than 20 )
+	 2 :  1419 competitors ( more than 20 )
+	 3 :  123 competitors ( more than 20 )
+	 4 :  50 competitors ( more than 20 )
+	 5 :  33 competitors ( more than 20 )
+	 6 :  27 competitors ( more than 20 )
+	 7 :  3 competitors ( INVESTOR'S, INVESTORS, INVESTORS' )
+	uniqueness point:  8 
+
+ARTIST  ( 6 :  AA1 R T AH0 S T )
+	 1 :  1094 competitors ( more than 20 )
+	 2 :  416 competitors ( more than 20 )
+	 3 :  52 competitors ( more than 20 )
+	 4 :  10 competitors ( ARTEMUS, ARTICLE, ARTICLES, ARTIFACT, ARTIFACTS, ARTIFICE, ARTISAN, ARTISANS, ARTIST'S, ARTUS )
+	 5 :  2 competitors ( ARTIST'S, ARTUS )
+	 6 :  1 competitors ( ARTIST'S )
+	uniqueness point:  7 
+
+MERCHANDISE  ( 8 :  M ER1 CH AH0 N D AY2 Z )
+	 1 :  9491 competitors ( more than 20 )
+	 2 :  172 competitors ( more than 20 )
+	 3 :  12 competitors ( MERCHANDISER, MERCHANDISERS, MERCHANDISING, MERCHANT, MERCHANT'S, MERCHANTMEN, MERCHANTS, MERCHANTS', MERCHANTSBANK, MURCHIE, MURCHINSON, MURCHISON )
+	 4 :  9 competitors ( MERCHANDISER, MERCHANDISERS, MERCHANDISING, MERCHANT, MERCHANT'S, MERCHANTMEN, MERCHANTS, MERCHANTS', MERCHANTSBANK )
+	 5 :  9 competitors ( MERCHANDISER, MERCHANDISERS, MERCHANDISING, MERCHANT, MERCHANT'S, MERCHANTMEN, MERCHANTS, MERCHANTS', MERCHANTSBANK )
+	 6 :  3 competitors ( MERCHANDISER, MERCHANDISERS, MERCHANDISING )
+	 7 :  3 competitors ( MERCHANDISER, MERCHANDISERS, MERCHANDISING )
+	 8 :  3 competitors ( MERCHANDISER, MERCHANDISERS, MERCHANDISING )
+	uniqueness point:  9 
+
+SALARY  ( 5 :  S AE1 L ER0 IY0 )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  587 competitors ( more than 20 )
+	 3 :  75 competitors ( more than 20 )
+	 4 :  3 competitors ( SALARIED, SALARIES, SALARYMEN )
+	 5 :  3 competitors ( SALARIED, SALARIES, SALARYMEN )
+	uniqueness point:  6 
+
+HUSBAND  ( 7 :  HH AH1 Z B AH0 N D )
+	 1 :  6706 competitors ( more than 20 )
+	 2 :  406 competitors ( more than 20 )
+	 3 :  3 competitors ( HUSBAND'S, HUSBANDRY, HUSBANDS )
+	 4 :  3 competitors ( HUSBAND'S, HUSBANDRY, HUSBANDS )
+	 5 :  3 competitors ( HUSBAND'S, HUSBANDRY, HUSBANDS )
+	 6 :  3 competitors ( HUSBAND'S, HUSBANDRY, HUSBANDS )
+	 7 :  3 competitors ( HUSBAND'S, HUSBANDRY, HUSBANDS )
+	uniqueness point:  8 
+
+COWORKER  ( 6 :  K OW1 W ER1 K ER0 )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  581 competitors ( more than 20 )
+	 3 :  4 competitors ( CO-WIFE, CO-WORKER, CO-WORKERS, COWORKERS )
+	 4 :  3 competitors ( CO-WORKER, CO-WORKERS, COWORKERS )
+	 5 :  3 competitors ( CO-WORKER, CO-WORKERS, COWORKERS )
+	 6 :  3 competitors ( CO-WORKER, CO-WORKERS, COWORKERS )
+	uniqueness point:  7 
+
+COPY  ( 4 :  K AA1 P IY0 )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1460 competitors ( more than 20 )
+	 3 :  91 competitors ( more than 20 )
+	 4 :  22 competitors ( more than 20 )
+	uniqueness point:  5 
+
+PEDESTRIAN  ( 10 :  P AH0 D EH1 S T R IY0 AH0 N )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  292 competitors ( more than 20 )
+	 3 :  12 competitors ( PADILLA, PADUCAH, PEDANTIC, PEDESTRIANS, PEDOWITZ(1), PODANY, PODIATRIST, PODOLAK, PODOLSKI, PODOLSKY, PODRASKY, PUDWILL )
+	 4 :  1 competitors ( PEDESTRIANS )
+	 5 :  1 competitors ( PEDESTRIANS )
+	 6 :  1 competitors ( PEDESTRIANS )
+	 7 :  1 competitors ( PEDESTRIANS )
+	 8 :  1 competitors ( PEDESTRIANS )
+	 9 :  1 competitors ( PEDESTRIANS )
+	 10 :  1 competitors ( PEDESTRIANS )
+	uniqueness point:  11 
+
+PRESIDENT  ( 9 :  P R EH1 Z IH0 D AH0 N T )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  1767 competitors ( more than 20 )
+	 3 :  168 competitors ( more than 20 )
+	 4 :  16 competitors ( PRES, PRESBY(1), PRESENCE, PRESENCES, PRESENT, PRESENTER, PRESENTERS, PRESENTLY, PRESENTS, PRESIDENCIES, PRESIDENCY, PRESIDENCY'S, PRESIDENT'S, PRESIDENTS, PRESIDENTS(1), PRESIDENTS' )
+	 5 :  7 competitors ( PRESIDENCIES, PRESIDENCY, PRESIDENCY'S, PRESIDENT'S, PRESIDENTS, PRESIDENTS(1), PRESIDENTS' )
+	 6 :  7 competitors ( PRESIDENCIES, PRESIDENCY, PRESIDENCY'S, PRESIDENT'S, PRESIDENTS, PRESIDENTS(1), PRESIDENTS' )
+	 7 :  5 competitors ( PRESIDENCIES, PRESIDENCY, PRESIDENCY'S, PRESIDENT'S, PRESIDENTS' )
+	 8 :  5 competitors ( PRESIDENCIES, PRESIDENCY, PRESIDENCY'S, PRESIDENT'S, PRESIDENTS' )
+	 9 :  2 competitors ( PRESIDENT'S, PRESIDENTS' )
+	uniqueness point:  10 
+
+CANDIDATES  ( 9 :  K AE1 N D AH0 D EY0 T S )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1151 competitors ( more than 20 )
+	 3 :  209 competitors ( more than 20 )
+	 4 :  37 competitors ( more than 20 )
+	 5 :  17 competitors ( CANDACE, CANDELLIN, CANDID, CANDIDACIES, CANDIDATE, CANDIDATE'S, CANDIDATES', CANDLE, CANDLELIGHT, CANDLEMAKER, CANDLER, CANDLES, CANDLESTICK, CANDLESTICKS, KANDA, KANDAHAR, KANDEL )
+	 6 :  5 competitors ( CANDID, CANDIDACIES, CANDIDATE, CANDIDATE'S, CANDIDATES' )
+	 7 :  3 competitors ( CANDIDATE, CANDIDATE'S, CANDIDATES' )
+	 8 :  3 competitors ( CANDIDATE, CANDIDATE'S, CANDIDATES' )
+	 9 :  2 competitors ( CANDIDATE'S, CANDIDATES' )
+	uniqueness point:  10 
+
+ORGANIZER  ( 8 :  AO1 R G AH0 N AY2 Z ER0 )
+	 1 :  656 competitors ( more than 20 )
+	 2 :  260 competitors ( more than 20 )
+	 3 :  18 competitors ( ORG, ORGAN, ORGANISM, ORGANISM'S, ORGANISMS, ORGANIST, ORGANIZE, ORGANIZED, ORGANIZERS, ORGANIZES, ORGANIZING, ORGANS, ORGANUM, ORGASM, ORGASMS, ORGEL, ORGERON, ORGOTEIN )
+	 4 :  13 competitors ( ORGAN, ORGANISM, ORGANISM'S, ORGANISMS, ORGANIST, ORGANIZE, ORGANIZED, ORGANIZERS, ORGANIZES, ORGANIZING, ORGANS, ORGANUM, ORGEL )
+	 5 :  12 competitors ( ORGAN, ORGANISM, ORGANISM'S, ORGANISMS, ORGANIST, ORGANIZE, ORGANIZED, ORGANIZERS, ORGANIZES, ORGANIZING, ORGANS, ORGANUM )
+	 6 :  5 competitors ( ORGANIZE, ORGANIZED, ORGANIZERS, ORGANIZES, ORGANIZING )
+	 7 :  5 competitors ( ORGANIZE, ORGANIZED, ORGANIZERS, ORGANIZES, ORGANIZING )
+	 8 :  1 competitors ( ORGANIZERS )
+	uniqueness point:  9 
+
+COUSIN  ( 5 :  K AH1 Z AH0 N )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  439 competitors ( more than 20 )
+	 3 :  7 competitors ( COUSIN'S, COUSINS, CUZZORT, KUZMA, KUZNETS, KUZNIA, KUZNIAR )
+	 4 :  2 competitors ( COUSIN'S, COUSINS )
+	 5 :  2 competitors ( COUSIN'S, COUSINS )
+	uniqueness point:  6 
+
+ANNOUNCER  ( 6 :  AH0 N AW1 N S ER0 )
+	 1 :  2626 competitors ( more than 20 )
+	 2 :  653 competitors ( more than 20 )
+	 3 :  8 competitors ( ANNOUNCE, ANNOUNCED, ANNOUNCEMENT, ANNOUNCEMENTS, ANNOUNCERS, ANNOUNCES, ANNOUNCING, ANNOUNCMENT )
+	 4 :  8 competitors ( ANNOUNCE, ANNOUNCED, ANNOUNCEMENT, ANNOUNCEMENTS, ANNOUNCERS, ANNOUNCES, ANNOUNCING, ANNOUNCMENT )
+	 5 :  8 competitors ( ANNOUNCE, ANNOUNCED, ANNOUNCEMENT, ANNOUNCEMENTS, ANNOUNCERS, ANNOUNCES, ANNOUNCING, ANNOUNCMENT )
+	 6 :  1 competitors ( ANNOUNCERS )
+	uniqueness point:  7 
+
+RIVAL  ( 5 :  R AY1 V AH0 L )
+	 1 :  7461 competitors ( more than 20 )
+	 2 :  336 competitors ( more than 20 )
+	 3 :  9 competitors ( RIVAL'S, RIVALED, RIVALING, RIVALING(1), RIVALRIES, RIVALRY, RIVALS, RIVALS', RIVES )
+	 4 :  7 competitors ( RIVAL'S, RIVALED, RIVALING, RIVALRIES, RIVALRY, RIVALS, RIVALS' )
+	 5 :  7 competitors ( RIVAL'S, RIVALED, RIVALING, RIVALRIES, RIVALRY, RIVALS, RIVALS' )
+	uniqueness point:  6 
+
+NOTEBOOKS  ( 7 :  N OW1 T B UH2 K S )
+	 1 :  3414 competitors ( more than 20 )
+	 2 :  195 competitors ( more than 20 )
+	 3 :  36 competitors ( more than 20 )
+	 4 :  1 competitors ( NOTEBOOK )
+	 5 :  1 competitors ( NOTEBOOK )
+	 6 :  1 competitors ( NOTEBOOK )
+	 7 :  0 competitors (  )
+	uniqueness point:  7 
+
+STAND  ( 5 :  S T AE1 N D )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  2351 competitors ( more than 20 )
+	 3 :  244 competitors ( more than 20 )
+	 4 :  103 competitors ( more than 20 )
+	 5 :  39 competitors ( more than 20 )
+	uniqueness point:  6 
+
+DRINKS  ( 6 :  D R IH1 NG K S )
+	 1 :  7735 competitors ( more than 20 )
+	 2 :  480 competitors ( more than 20 )
+	 3 :  54 competitors ( more than 20 )
+	 4 :  9 competitors ( DRING, DRINK, DRINKARD, DRINKER, DRINKER'S, DRINKERS, DRINKING, DRINKWATER, DRINKWINE )
+	 5 :  8 competitors ( DRINK, DRINKARD, DRINKER, DRINKER'S, DRINKERS, DRINKING, DRINKWATER, DRINKWINE )
+	 6 :  0 competitors (  )
+	uniqueness point:  6 
+
+ENCRYPTION  ( 9 :  EH0 N K R IH1 P SH AH0 N )
+	 1 :  554 competitors ( more than 20 )
+	 2 :  238 competitors ( more than 20 )
+	 3 :  38 competitors ( more than 20 )
+	 4 :  6 competitors ( ENCROACHMENT, ENCRUST, ENCRUSTED, ENCRUSTING, ENCRYPT, ENCRYPTED )
+	 5 :  2 competitors ( ENCRYPT, ENCRYPTED )
+	 6 :  2 competitors ( ENCRYPT, ENCRYPTED )
+	 7 :  0 competitors (  )
+	uniqueness point:  7 
+
+AIDES  ( 3 :  EY1 D Z )
+	 1 :  419 competitors ( more than 20 )
+	 2 :  39 competitors ( more than 20 )
+	 3 :  5 competitors ( ADES, AID'S, AIDE'S, AIDES', AIDS )
+	uniqueness point:  4 
+
+SCOOTER  ( 5 :  S K UW1 T ER0 )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  977 competitors ( more than 20 )
+	 3 :  48 competitors ( more than 20 )
+	 4 :  5 competitors ( SCHUETT, SCHUETTE, SCOOT, SCOOTERS, SCOOTS )
+	 5 :  1 competitors ( SCOOTERS )
+	uniqueness point:  6 
+
+JANITOR  ( 6 :  JH AE1 N AH0 T ER0 )
+	 1 :  2159 competitors ( more than 20 )
+	 2 :  204 competitors ( more than 20 )
+	 3 :  48 competitors ( more than 20 )
+	 4 :  9 competitors ( JANA, JANAS, JANEL, JANET, JANET'S, JANICE, JANITORS, JANNA, JANNOCK )
+	 5 :  3 competitors ( JANET, JANET'S, JANITORS )
+	 6 :  1 competitors ( JANITORS )
+	uniqueness point:  7 
+
+MOTHER  ( 4 :  M AH1 DH ER0 )
+	 1 :  9491 competitors ( more than 20 )
+	 2 :  405 competitors ( more than 20 )
+	 3 :  19 competitors ( MOTHER'S, MOTHER-IN-LAW, MOTHERCARE, MOTHERFUCKER, MOTHERFUCKER'S, MOTHERFUCKERS, MOTHERFUCKING, MOTHERHOOD, MOTHERING, MOTHERLAND, MOTHERLESS, MOTHERLY, MOTHERS, MOTHERS-IN-LAW, MOTHERSHEAD, MOTHERSHED, MOTHERSHIP, MOTHERSHIP'S, MOTHERSHIPS )
+	 4 :  19 competitors ( MOTHER'S, MOTHER-IN-LAW, MOTHERCARE, MOTHERFUCKER, MOTHERFUCKER'S, MOTHERFUCKERS, MOTHERFUCKING, MOTHERHOOD, MOTHERING, MOTHERLAND, MOTHERLESS, MOTHERLY, MOTHERS, MOTHERS-IN-LAW, MOTHERSHEAD, MOTHERSHED, MOTHERSHIP, MOTHERSHIP'S, MOTHERSHIPS )
+	uniqueness point:  5 
+
+COURSE  ( 4 :  K AO1 R S )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  575 competitors ( more than 20 )
+	 3 :  381 competitors ( more than 20 )
+	 4 :  25 competitors ( more than 20 )
+	uniqueness point:  5 
+
+JURY  ( 4 :  JH UH1 R IY0 )
+	 1 :  2159 competitors ( more than 20 )
+	 2 :  21 competitors ( more than 20 )
+	 3 :  20 competitors ( JURA, JURA'S, JURANEK, JURAS, JURE, JUREK, JUREWICZ, JURICA, JURICH, JURIES, JURIES', JURIS, JURIST, JURIST(1), JURISTS, JUROR, JUROR'S, JURORS, JURORS', JURY'S )
+	 4 :  3 competitors ( JURIES, JURIES', JURY'S )
+	uniqueness point:  5 
+
+POISON  ( 5 :  P OY1 Z AH0 N )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  39 competitors ( more than 20 )
+	 3 :  8 competitors ( POISE, POISED, POISONED, POISONING, POISONINGS, POISONOUS, POISONS, POISSON )
+	 4 :  5 competitors ( POISONED, POISONING, POISONINGS, POISONOUS, POISONS )
+	 5 :  5 competitors ( POISONED, POISONING, POISONINGS, POISONOUS, POISONS )
+	uniqueness point:  6 
+
+PERMIT  ( 5 :  P ER0 M IH1 T )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  344 competitors ( more than 20 )
+	 3 :  14 competitors ( PERMEABILITY, PERMIAM, PERMISSIBLE, PERMISSION, PERMISSIONS, PERMISSIVE, PERMISSIVENESS, PERMITS, PERMITTED, PERMITTED(1), PERMITTING, PROMOTION(1), PROMOTIONAL(1), PROMOTIONS(1) )
+	 4 :  9 competitors ( PERMISSIBLE, PERMISSION, PERMISSIONS, PERMISSIVE, PERMISSIVENESS, PERMITS, PERMITTED, PERMITTED(1), PERMITTING )
+	 5 :  4 competitors ( PERMITS, PERMITTED, PERMITTED(1), PERMITTING )
+	uniqueness point:  6 
+
+DEACON  ( 5 :  D IY1 K AH0 N )
+	 1 :  7735 competitors ( more than 20 )
+	 2 :  305 competitors ( more than 20 )
+	 3 :  23 competitors ( more than 20 )
+	 4 :  2 competitors ( DEACONESS, DEACONS )
+	 5 :  2 competitors ( DEACONESS, DEACONS )
+	uniqueness point:  6 
+
+BOLTS  ( 5 :  B OW1 L T S )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  378 competitors ( more than 20 )
+	 3 :  116 competitors ( more than 20 )
+	 4 :  15 competitors ( BOELTER, BOLDT, BOLT, BOLTE, BOLTED, BOLTED(1), BOLTEN, BOLTER, BOLTHOUSE, BOLTING, BOLTON, BOLTZ, BOLTZMANN'S, BOLTZMANNS, BOULTER )
+	 5 :  3 competitors ( BOLTZ, BOLTZMANN'S, BOLTZMANNS )
+	uniqueness point:  6 
+
+FUNERAL  ( 7 :  F Y UW1 N ER0 AH0 L )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  106 competitors ( more than 20 )
+	 3 :  80 competitors ( more than 20 )
+	 4 :  3 competitors ( FUNERALS, FUNERARY, FUNES )
+	 5 :  2 competitors ( FUNERALS, FUNERARY )
+	 6 :  1 competitors ( FUNERALS )
+	 7 :  1 competitors ( FUNERALS )
+	uniqueness point:  8 
+
+INFRASTRUCTURE  ( 12 :  IH2 N F R AH0 S T R AH1 K CH ER0 )
+	 1 :  2039 competitors ( more than 20 )
+	 2 :  1419 competitors ( more than 20 )
+	 3 :  113 competitors ( more than 20 )
+	 4 :  14 competitors ( INFRACTION, INFRACTIONS, INFRARED, INFRASTRUCTURAL, INFRASTRUCTURES, INFREQUENCY, INFREQUENT, INFREQUENTLY, INFRINGE, INFRINGED, INFRINGEMENT, INFRINGEMENTS, INFRINGES, INFRINGING )
+	 5 :  2 competitors ( INFRASTRUCTURAL, INFRASTRUCTURES )
+	 6 :  2 competitors ( INFRASTRUCTURAL, INFRASTRUCTURES )
+	 7 :  2 competitors ( INFRASTRUCTURAL, INFRASTRUCTURES )
+	 8 :  2 competitors ( INFRASTRUCTURAL, INFRASTRUCTURES )
+	 9 :  2 competitors ( INFRASTRUCTURAL, INFRASTRUCTURES )
+	 10 :  2 competitors ( INFRASTRUCTURAL, INFRASTRUCTURES )
+	 11 :  2 competitors ( INFRASTRUCTURAL, INFRASTRUCTURES )
+	 12 :  2 competitors ( INFRASTRUCTURAL, INFRASTRUCTURES )
+	uniqueness point:  13 
+
+CRIMINAL  ( 8 :  K R IH1 M AH0 N AH0 L )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1496 competitors ( more than 20 )
+	 3 :  248 competitors ( more than 20 )
+	 4 :  20 competitors ( CRIM, CRIMINAL'S, CRIMINALIST, CRIMINALIST'S, CRIMINALISTS, CRIMINALIZE, CRIMINALIZED, CRIMINALIZING, CRIMINALLY, CRIMINALS, CRIMINALS', CRIMM, CRIMMINS, CRIMP, CRIMPED, CRIMPING, CRIMPS, CRIMSON, KRIM, KRIMMEL )
+	 5 :  11 competitors ( CRIMINAL'S, CRIMINALIST, CRIMINALIST'S, CRIMINALISTS, CRIMINALIZE, CRIMINALIZED, CRIMINALIZING, CRIMINALLY, CRIMINALS, CRIMINALS', KRIMMEL )
+	 6 :  10 competitors ( CRIMINAL'S, CRIMINALIST, CRIMINALIST'S, CRIMINALISTS, CRIMINALIZE, CRIMINALIZED, CRIMINALIZING, CRIMINALLY, CRIMINALS, CRIMINALS' )
+	 7 :  10 competitors ( CRIMINAL'S, CRIMINALIST, CRIMINALIST'S, CRIMINALISTS, CRIMINALIZE, CRIMINALIZED, CRIMINALIZING, CRIMINALLY, CRIMINALS, CRIMINALS' )
+	 8 :  10 competitors ( CRIMINAL'S, CRIMINALIST, CRIMINALIST'S, CRIMINALISTS, CRIMINALIZE, CRIMINALIZED, CRIMINALIZING, CRIMINALLY, CRIMINALS, CRIMINALS' )
+	uniqueness point:  9 
+
+GUESTS  ( 5 :  G EH1 S T S )
+	 1 :  4962 competitors ( more than 20 )
+	 2 :  192 competitors ( more than 20 )
+	 3 :  26 competitors ( more than 20 )
+	 4 :  11 competitors ( GUESSED, GUESSTIMATE, GUESSTIMATE(1), GUESSTIMATES, GUESSTIMATES(1), GUEST, GUEST'S, GUESTED, GUESTHOUSE, GUESTHOUSES, GUESTS' )
+	 5 :  2 competitors ( GUEST'S, GUESTS' )
+	uniqueness point:  6 
+
+LISTENERS  ( 7 :  L IH1 S AH0 N ER0 Z )
+	 1 :  5488 competitors ( more than 20 )
+	 2 :  668 competitors ( more than 20 )
+	 3 :  48 competitors ( more than 20 )
+	 4 :  11 competitors ( LISABET, LISABETH, LISAK, LISENBEE(1), LISSA, LISSACK, LISTEN, LISTENED, LISTENER, LISTENING, LISTENS )
+	 5 :  6 competitors ( LISENBEE(1), LISTEN, LISTENED, LISTENER, LISTENING, LISTENS )
+	 6 :  1 competitors ( LISTENER )
+	 7 :  0 competitors (  )
+	uniqueness point:  7 
+
+HANDICAPPED  ( 9 :  HH AE1 N D IY0 K AE2 P T )
+	 1 :  6706 competitors ( more than 20 )
+	 2 :  893 competitors ( more than 20 )
+	 3 :  227 competitors ( more than 20 )
+	 4 :  99 competitors ( more than 20 )
+	 5 :  13 competitors ( HANDICAP, HANDICAPPER, HANDICAPPERS, HANDICAPPING, HANDICAPS, HANDICRAFT, HANDICRAFTS, HANDIER, HANDIEST, HANDIWORK, HANDY, HANDYMAN, HANDYMEN )
+	 6 :  7 competitors ( HANDICAP, HANDICAPPER, HANDICAPPERS, HANDICAPPING, HANDICAPS, HANDICRAFT, HANDICRAFTS )
+	 7 :  5 competitors ( HANDICAP, HANDICAPPER, HANDICAPPERS, HANDICAPPING, HANDICAPS )
+	 8 :  5 competitors ( HANDICAP, HANDICAPPER, HANDICAPPERS, HANDICAPPING, HANDICAPS )
+	 9 :  0 competitors (  )
+	uniqueness point:  9 
+
+BOSS  ( 3 :  B AA1 S )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  768 competitors ( more than 20 )
+	 3 :  32 competitors ( more than 20 )
+	uniqueness point:  4 
+
+PHOTO  ( 4 :  F OW1 T OW2 )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  146 competitors ( more than 20 )
+	 3 :  24 competitors ( more than 20 )
+	 4 :  6 competitors ( PHOTO'S, PHOTOCALL, PHOTOS, PHOTOSHOP, PHOTOSHOPPING, PHOTOSHOPS )
+	uniqueness point:  5 
+
+JUICE  ( 3 :  JH UW1 S )
+	 1 :  2159 competitors ( more than 20 )
+	 2 :  152 competitors ( more than 20 )
+	 3 :  7 competitors ( GIUSTI, GIUSTO, JOOST, JUICES, JUICES(1), JUICIEST, JUICY )
+	uniqueness point:  4 
+
+POLITICIANS  ( 10 :  P AA2 L AH0 T IH1 SH AH0 N Z )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  101 competitors ( more than 20 )
+	 3 :  48 competitors ( more than 20 )
+	 4 :  5 competitors ( POLITICIAN, POLITICIAN'S, POLITICIANS', POLLINATION, POLONAISE )
+	 5 :  3 competitors ( POLITICIAN, POLITICIAN'S, POLITICIANS' )
+	 6 :  3 competitors ( POLITICIAN, POLITICIAN'S, POLITICIANS' )
+	 7 :  3 competitors ( POLITICIAN, POLITICIAN'S, POLITICIANS' )
+	 8 :  3 competitors ( POLITICIAN, POLITICIAN'S, POLITICIANS' )
+	 9 :  3 competitors ( POLITICIAN, POLITICIAN'S, POLITICIANS' )
+	 10 :  2 competitors ( POLITICIAN'S, POLITICIANS' )
+	uniqueness point:  11 
+
+SOLUTION  ( 7 :  S AH0 L UW1 SH AH0 N )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  518 competitors ( more than 20 )
+	 3 :  87 competitors ( more than 20 )
+	 4 :  8 competitors ( SALOOJEE, SALOON, SALOONS, SALUTE, SALUTED, SALUTES, SALUTING, SOLUTIONS )
+	 5 :  1 competitors ( SOLUTIONS )
+	 6 :  1 competitors ( SOLUTIONS )
+	 7 :  1 competitors ( SOLUTIONS )
+	uniqueness point:  8 
+
+SPEAKER  ( 5 :  S P IY1 K ER0 )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  908 competitors ( more than 20 )
+	 3 :  67 competitors ( more than 20 )
+	 4 :  12 competitors ( SPEAK, SPEAK-EASY, SPEAKE, SPEAKER'S, SPEAKERS, SPEAKERSHIP, SPEAKES, SPEAKES'S, SPEAKING, SPEAKMAN, SPEAKS, SPIEKER )
+	 5 :  4 competitors ( SPEAKER'S, SPEAKERS, SPEAKERSHIP, SPIEKER )
+	uniqueness point:  6 
+
+ANIMAL  ( 6 :  AE1 N AH0 M AH0 L )
+	 1 :  1913 competitors ( more than 20 )
+	 2 :  337 competitors ( more than 20 )
+	 3 :  66 competitors ( more than 20 )
+	 4 :  16 competitors ( ANIMAL'S, ANIMALS, ANIMALS', ANIMATE, ANIMATE(1), ANIMATED, ANIMATES, ANIMATES(1), ANIMATOR, ANIMATORS, ANIMISM, ANIMIST, ANIMISTS, ANIMISTS(1), ANNUM, ANOMIE )
+	 5 :  8 competitors ( ANIMAL'S, ANIMALS, ANIMALS', ANIMATE, ANIMATES, ANIMIST, ANIMISTS, ANIMISTS(1) )
+	 6 :  3 competitors ( ANIMAL'S, ANIMALS, ANIMALS' )
+	uniqueness point:  7 
+
+BEHAVIOR  ( 7 :  B IH0 HH EY1 V Y ER0 )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  243 competitors ( more than 20 )
+	 3 :  25 competitors ( more than 20 )
+	 4 :  10 competitors ( BEHAVE, BEHAVED, BEHAVES, BEHAVING, BEHAVIORAL, BEHAVIORIST, BEHAVIORISTS, BEHAVIORS, BEHAVIOUR, BEHAVIOURS )
+	 5 :  10 competitors ( BEHAVE, BEHAVED, BEHAVES, BEHAVING, BEHAVIORAL, BEHAVIORIST, BEHAVIORISTS, BEHAVIORS, BEHAVIOUR, BEHAVIOURS )
+	 6 :  6 competitors ( BEHAVIORAL, BEHAVIORIST, BEHAVIORISTS, BEHAVIORS, BEHAVIOUR, BEHAVIOURS )
+	 7 :  6 competitors ( BEHAVIORAL, BEHAVIORIST, BEHAVIORISTS, BEHAVIORS, BEHAVIOUR, BEHAVIOURS )
+	uniqueness point:  8 
+
+TRACK  ( 4 :  T R AE1 K )
+	 1 :  4893 competitors ( more than 20 )
+	 2 :  1190 competitors ( more than 20 )
+	 3 :  158 competitors ( more than 20 )
+	 4 :  24 competitors ( more than 20 )
+	uniqueness point:  5 
+
+DRUMMER  ( 5 :  D R AH1 M ER0 )
+	 1 :  7735 competitors ( more than 20 )
+	 2 :  480 competitors ( more than 20 )
+	 3 :  49 competitors ( more than 20 )
+	 4 :  16 competitors ( DRUM, DRUMBEAT, DRUMHEAD, DRUMHELLER, DRUMLIN'S, DRUMM, DRUMMED, DRUMMERS, DRUMMEY, DRUMMING, DRUMMOND, DRUMMONDS, DRUMRIGHT, DRUMS, DRUMSTICK, DRUMWRIGHT )
+	 5 :  1 competitors ( DRUMMERS )
+	uniqueness point:  6 
+
+PAYMENTS  ( 7 :  P EY1 M AH0 N T S )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  226 competitors ( more than 20 )
+	 3 :  4 competitors ( PAMER, PAYMENT, PAYMER, PEYMAN )
+	 4 :  2 competitors ( PAYMENT, PEYMAN )
+	 5 :  2 competitors ( PAYMENT, PEYMAN )
+	 6 :  1 competitors ( PAYMENT )
+	 7 :  0 competitors (  )
+	uniqueness point:  7 
+
+THEORY  ( 4 :  TH IH1 R IY0 )
+	 1 :  639 competitors ( more than 20 )
+	 2 :  58 competitors ( more than 20 )
+	 3 :  7 competitors ( THEOREM, THEORIES, THEORY'S, THERIEN, THERIOT, THIERY, THIRY )
+	 4 :  6 competitors ( THEORIES, THEORY'S, THERIEN, THERIOT, THIERY, THIRY )
+	uniqueness point:  5 
+
+CLOTHES  ( 5 :  K L OW1 DH Z )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  998 competitors ( more than 20 )
+	 3 :  64 competitors ( more than 20 )
+	 4 :  7 competitors ( CLOTHE, CLOTHED, CLOTHESTIME, CLOTHIER, CLOTHIERS, CLOTHING, CLOUTHIER(2) )
+	 5 :  1 competitors ( CLOTHESTIME )
+	uniqueness point:  6 
+
+BELIEFS  ( 6 :  B IH0 L IY1 F S )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  243 competitors ( more than 20 )
+	 3 :  57 competitors ( more than 20 )
+	 4 :  10 competitors ( BELEAGUER, BELEAGUERED, BELEAGUERING, BELIEF, BELIEVE, BELIEVED, BELIEVER, BELIEVERS, BELIEVES, BELIEVING )
+	 5 :  1 competitors ( BELIEF )
+	 6 :  0 competitors (  )
+	uniqueness point:  6 
+
+ACCOUNT  ( 5 :  AH0 K AW1 N T )
+	 1 :  2626 competitors ( more than 20 )
+	 2 :  204 competitors ( more than 20 )
+	 3 :  14 competitors ( ACCOUNT'S, ACCOUNTABILITY, ACCOUNTABLE, ACCOUNTANCY, ACCOUNTANT, ACCOUNTANT'S, ACCOUNTANTS, ACCOUNTANTS', ACCOUNTED, ACCOUNTEMP, ACCOUNTEMPS, ACCOUNTING, ACCOUNTING(1), ACCOUNTS )
+	 4 :  14 competitors ( ACCOUNT'S, ACCOUNTABILITY, ACCOUNTABLE, ACCOUNTANCY, ACCOUNTANT, ACCOUNTANT'S, ACCOUNTANTS, ACCOUNTANTS', ACCOUNTED, ACCOUNTEMP, ACCOUNTEMPS, ACCOUNTING, ACCOUNTING(1), ACCOUNTS )
+	 5 :  13 competitors ( ACCOUNT'S, ACCOUNTABILITY, ACCOUNTABLE, ACCOUNTANCY, ACCOUNTANT, ACCOUNTANT'S, ACCOUNTANTS, ACCOUNTANTS', ACCOUNTED, ACCOUNTEMP, ACCOUNTEMPS, ACCOUNTING, ACCOUNTS )
+	uniqueness point:  6 
+
+QUESTION  ( 7 :  K W EH1 S CH AH0 N )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  470 competitors ( more than 20 )
+	 3 :  51 competitors ( more than 20 )
+	 4 :  20 competitors ( ?QUESTION-MARK, CUESTA, QUES(1), QUESINBERRY, QUEST, QUESTAR, QUESTECH, QUESTION'S, QUESTION-MARK, QUESTIONABLE, QUESTIONED, QUESTIONER, QUESTIONERS, QUESTIONING, QUESTIONINGS, QUESTIONS, QUESTIONS', QUESTRAN, QUESTROM, QUESTS )
+	 5 :  11 competitors ( ?QUESTION-MARK, QUESTION'S, QUESTION-MARK, QUESTIONABLE, QUESTIONED, QUESTIONER, QUESTIONERS, QUESTIONING, QUESTIONINGS, QUESTIONS, QUESTIONS' )
+	 6 :  11 competitors ( ?QUESTION-MARK, QUESTION'S, QUESTION-MARK, QUESTIONABLE, QUESTIONED, QUESTIONER, QUESTIONERS, QUESTIONING, QUESTIONINGS, QUESTIONS, QUESTIONS' )
+	 7 :  11 competitors ( ?QUESTION-MARK, QUESTION'S, QUESTION-MARK, QUESTIONABLE, QUESTIONED, QUESTIONER, QUESTIONERS, QUESTIONING, QUESTIONINGS, QUESTIONS, QUESTIONS' )
+	uniqueness point:  8 
+
+INNING  ( 4 :  IH1 N IH0 NG )
+	 1 :  896 competitors ( more than 20 )
+	 2 :  449 competitors ( more than 20 )
+	 3 :  7 competitors ( INES, INISS, INNESS, INNINGS, INNIS, INNISS, INTIMATE(2) )
+	 4 :  1 competitors ( INNINGS )
+	uniqueness point:  5 
+
+WORK  ( 3 :  W ER1 K )
+	 1 :  3831 competitors ( more than 20 )
+	 2 :  228 competitors ( more than 20 )
+	 3 :  53 competitors ( more than 20 )
+	uniqueness point:  4 
+
+STRUCTURE  ( 7 :  S T R AH1 K CH ER0 )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  2351 competitors ( more than 20 )
+	 3 :  458 competitors ( more than 20 )
+	 4 :  32 competitors ( more than 20 )
+	 5 :  9 competitors ( STRUCHEN, STRUCK, STRUCKMAN, STRUCTURAL, STRUCTURALLY, STRUCTURE'S, STRUCTURED, STRUCTURES, STRUCTURING )
+	 6 :  6 competitors ( STRUCTURAL, STRUCTURALLY, STRUCTURE'S, STRUCTURED, STRUCTURES, STRUCTURING )
+	 7 :  6 competitors ( STRUCTURAL, STRUCTURALLY, STRUCTURE'S, STRUCTURED, STRUCTURES, STRUCTURING )
+	uniqueness point:  8 
+
+BROTH  ( 4 :  B R AO1 TH )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  1602 competitors ( more than 20 )
+	 3 :  75 competitors ( more than 20 )
+	 4 :  1 competitors ( BROTHS )
+	uniqueness point:  5 
+
+CHILD  ( 4 :  CH AY1 L D )
+	 1 :  1263 competitors ( more than 20 )
+	 2 :  36 competitors ( more than 20 )
+	 3 :  15 competitors ( CHEIL, CHILD'S, CHILDBEARING, CHILDBIRTH, CHILDCARE, CHILDCRAFT, CHILDHOOD, CHILDHOODS, CHILDISH, CHILDLESS, CHILDLIKE, CHILDRAISING, CHILDRES, CHILDS, CHILES )
+	 4 :  13 competitors ( CHILD'S, CHILDBEARING, CHILDBIRTH, CHILDCARE, CHILDCRAFT, CHILDHOOD, CHILDHOODS, CHILDISH, CHILDLESS, CHILDLIKE, CHILDRAISING, CHILDRES, CHILDS )
+	uniqueness point:  5 
+
+SINK  ( 4 :  S IH1 NG K )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  790 competitors ( more than 20 )
+	 3 :  54 competitors ( more than 20 )
+	 4 :  21 competitors ( more than 20 )
+	uniqueness point:  5 
+
+VEIL  ( 3 :  V EY1 L )
+	 1 :  2409 competitors ( more than 20 )
+	 2 :  67 competitors ( more than 20 )
+	 3 :  16 competitors ( VAIL, VAILAB, VAILE, VAILLANCOURT, VALE, VALENCE, VALES, VALLE, VALLELY, VALLES, VEILED, VEILING, VEILLEUX(1), VEILLON, VEILS, VELOZ )
+	uniqueness point:  4 
+
+KID  ( 3 :  K IH1 D )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  466 competitors ( more than 20 )
+	 3 :  31 competitors ( more than 20 )
+	uniqueness point:  4 
+
+CONTRACT  ( 8 :  K AA1 N T R AE2 K T )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1460 competitors ( more than 20 )
+	 3 :  337 competitors ( more than 20 )
+	 4 :  57 competitors ( more than 20 )
+	 5 :  25 competitors ( more than 20 )
+	 6 :  6 competitors ( CONTRACT'S, CONTRACTOR, CONTRACTOR'S, CONTRACTORS, CONTRACTS, CONTRAN )
+	 7 :  5 competitors ( CONTRACT'S, CONTRACTOR, CONTRACTOR'S, CONTRACTORS, CONTRACTS )
+	 8 :  5 competitors ( CONTRACT'S, CONTRACTOR, CONTRACTOR'S, CONTRACTORS, CONTRACTS )
+	uniqueness point:  9 
+
+FINGER  ( 5 :  F IH1 NG G ER0 )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  479 competitors ( more than 20 )
+	 3 :  40 competitors ( more than 20 )
+	 4 :  17 competitors ( FINGERBOARD, FINGERED, FINGERHUT, FINGERING, FINGERNAIL, FINGERNAILS, FINGERPAINT, FINGERPAINTED, FINGERPAINTED(1), FINGERPOINTING, FINGERPRINT, FINGERPRINTED, FINGERPRINTING, FINGERPRINTS, FINGERS, FINGERTIP, FINGERTIPS )
+	 5 :  17 competitors ( FINGERBOARD, FINGERED, FINGERHUT, FINGERING, FINGERNAIL, FINGERNAILS, FINGERPAINT, FINGERPAINTED, FINGERPAINTED(1), FINGERPOINTING, FINGERPRINT, FINGERPRINTED, FINGERPRINTING, FINGERPRINTS, FINGERS, FINGERTIP, FINGERTIPS )
+	uniqueness point:  6 
+
+BUTTER  ( 4 :  B AH1 T ER0 )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  452 competitors ( more than 20 )
+	 3 :  68 competitors ( more than 20 )
+	 4 :  22 competitors ( more than 20 )
+	uniqueness point:  5 
+
+FILE  ( 3 :  F AY1 L )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  223 competitors ( more than 20 )
+	 3 :  16 competitors ( FEILER, FILA, FILED, FILEGATE, FILENET, FILER, FILERS, FILES, FILING, FILINGS, FILOFAX(1), PFEIL, PHYLA, PHYLE, PHYLIS, PHYLUM )
+	uniqueness point:  4 
+
+PIE  ( 2 :  P AY1 )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  104 competitors ( more than 20 )
+	uniqueness point:  3 
+
+YARN  ( 4 :  Y AA1 R N )
+	 1 :  1362 competitors ( more than 20 )
+	 2 :  106 competitors ( more than 20 )
+	 3 :  31 competitors ( more than 20 )
+	 4 :  3 competitors ( YARNALL, YARNELL, YARNS )
+	uniqueness point:  5 
+
+FIRE  ( 3 :  F AY1 ER0 )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  223 competitors ( more than 20 )
+	 3 :  36 competitors ( more than 20 )
+	uniqueness point:  4 
+
+CHICKENS  ( 6 :  CH IH1 K AH0 N Z )
+	 1 :  1263 competitors ( more than 20 )
+	 2 :  156 competitors ( more than 20 )
+	 3 :  13 competitors ( CHICAGOAN, CHICK, CHICK'S, CHICKASAW, CHICKASAWS, CHICKEN, CHICKEN'S, CHICKENED, CHICKENING, CHICKENS', CHICKERING, CHICKS, CHICOTS )
+	 4 :  9 competitors ( CHICAGOAN, CHICKASAW, CHICKASAWS, CHICKEN, CHICKEN'S, CHICKENED, CHICKENING, CHICKENS', CHICOTS )
+	 5 :  5 competitors ( CHICKEN, CHICKEN'S, CHICKENED, CHICKENING, CHICKENS' )
+	 6 :  2 competitors ( CHICKEN'S, CHICKENS' )
+	uniqueness point:  7 
+
+WOUND  ( 4 :  W AW1 N D )
+	 1 :  3831 competitors ( more than 20 )
+	 2 :  9 competitors ( WAUTERS, WOULFE, WOUTERS, WOW, WOW'S, WOWED, WOWIE, WOWING, WOWS )
+	 3 :  0 competitors (  )
+	uniqueness point:  3 
+
+SNACKS  ( 5 :  S N AE1 K S )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  239 competitors ( more than 20 )
+	 3 :  40 competitors ( more than 20 )
+	 4 :  7 competitors ( SNACK, SNACKBAR, SNACKED, SNACKING, SNACKWELL, SNACKWELL'S, SNACKWELLS )
+	 5 :  0 competitors (  )
+	uniqueness point:  5 
+
+AUDIENCE  ( 6 :  AA1 D IY0 AH0 N S )
+	 1 :  1094 competitors ( more than 20 )
+	 2 :  47 competitors ( more than 20 )
+	 3 :  9 competitors ( ADDEO, ADDIS-ABABA(1), ADIA, AUDIENCE'S, AUDIENCES, AUDIO, ODDI, ODDY, ODEA )
+	 4 :  4 competitors ( ADIA, AUDIENCE'S, AUDIENCES, ODEA )
+	 5 :  2 competitors ( AUDIENCE'S, AUDIENCES )
+	 6 :  2 competitors ( AUDIENCE'S, AUDIENCES )
+	uniqueness point:  7 
+
+CITIZENS  ( 8 :  S IH1 T AH0 Z AH0 N Z )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  790 competitors ( more than 20 )
+	 3 :  69 competitors ( more than 20 )
+	 4 :  6 competitors ( CITADEL, CITADEL'S, CITIZEN, CITIZEN'S, SITTIN', SITTON )
+	 5 :  2 competitors ( CITIZEN, CITIZEN'S )
+	 6 :  2 competitors ( CITIZEN, CITIZEN'S )
+	 7 :  2 competitors ( CITIZEN, CITIZEN'S )
+	 8 :  1 competitors ( CITIZEN'S )
+	uniqueness point:  9 
+
+PERFORMANCE  ( 9 :  P ER0 F AO1 R M AH0 N S )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  344 competitors ( more than 20 )
+	 3 :  30 competitors ( more than 20 )
+	 4 :  13 competitors ( PERFORCE, PERFORM, PERFORMA, PERFORMANCES, PERFORMANCES(1), PERFORMATIVE, PERFORMATIVES, PERFORMED, PERFORMER, PERFORMERS, PERFORMERS', PERFORMING, PERFORMS )
+	 5 :  13 competitors ( PERFORCE, PERFORM, PERFORMA, PERFORMANCES, PERFORMANCES(1), PERFORMATIVE, PERFORMATIVES, PERFORMED, PERFORMER, PERFORMERS, PERFORMERS', PERFORMING, PERFORMS )
+	 6 :  12 competitors ( PERFORM, PERFORMA, PERFORMANCES, PERFORMANCES(1), PERFORMATIVE, PERFORMATIVES, PERFORMED, PERFORMER, PERFORMERS, PERFORMERS', PERFORMING, PERFORMS )
+	 7 :  5 competitors ( PERFORMA, PERFORMANCES, PERFORMANCES(1), PERFORMATIVE, PERFORMATIVES )
+	 8 :  2 competitors ( PERFORMANCES, PERFORMANCES(1) )
+	 9 :  2 competitors ( PERFORMANCES, PERFORMANCES(1) )
+	uniqueness point:  10 
+
+FRUIT  ( 4 :  F R UW1 T )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  897 competitors ( more than 20 )
+	 3 :  23 competitors ( more than 20 )
+	 4 :  8 competitors ( FRUITCAKE, FRUITCAKES, FRUITFUL, FRUITING, FRUITLESS, FRUITLESSLY, FRUITS, FRUITY )
+	uniqueness point:  5 
+
+COMEDIAN  ( 8 :  K AH0 M IY1 D IY0 AH0 N )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1485 competitors ( more than 20 )
+	 3 :  337 competitors ( more than 20 )
+	 4 :  10 competitors ( CAMILLE, CAMINO, CAMMISA, CHAMELEON, COMEDIAN'S, COMEDIANS, COMEDIC, COMINO, KMIEC, KMIECIK )
+	 5 :  3 competitors ( COMEDIAN'S, COMEDIANS, COMEDIC )
+	 6 :  2 competitors ( COMEDIAN'S, COMEDIANS )
+	 7 :  2 competitors ( COMEDIAN'S, COMEDIANS )
+	 8 :  2 competitors ( COMEDIAN'S, COMEDIANS )
+	uniqueness point:  9 
+
+ONLOOKERS  ( 7 :  AO1 N L UH2 K ER0 Z )
+	 1 :  656 competitors ( more than 20 )
+	 2 :  25 competitors ( more than 20 )
+	 3 :  4 competitors ( ON-LINE, ONLINE, ONLINE'S, ONLOOKER )
+	 4 :  1 competitors ( ONLOOKER )
+	 5 :  1 competitors ( ONLOOKER )
+	 6 :  1 competitors ( ONLOOKER )
+	 7 :  0 competitors (  )
+	uniqueness point:  7 
+
+HOST  ( 4 :  HH OW1 S T )
+	 1 :  6706 competitors ( more than 20 )
+	 2 :  421 competitors ( more than 20 )
+	 3 :  11 competitors ( HOESLY, HOSEK, HOST'S, HOSTED, HOSTER, HOSTERMAN, HOSTESS, HOSTESSES, HOSTESSES(1), HOSTING, HOSTS )
+	 4 :  9 competitors ( HOST'S, HOSTED, HOSTER, HOSTERMAN, HOSTESS, HOSTESSES, HOSTESSES(1), HOSTING, HOSTS )
+	uniqueness point:  5 
+
+DRAWINGS  ( 6 :  D R AO1 IH0 NG Z )
+	 1 :  7735 competitors ( more than 20 )
+	 2 :  480 competitors ( more than 20 )
+	 3 :  23 competitors ( more than 20 )
+	 4 :  1 competitors ( DRAWING )
+	 5 :  1 competitors ( DRAWING )
+	 6 :  0 competitors (  )
+	uniqueness point:  6 
+
+SPEECH  ( 4 :  S P IY1 CH )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  908 competitors ( more than 20 )
+	 3 :  67 competitors ( more than 20 )
+	 4 :  7 competitors ( SPEECHES, SPEECHES(1), SPEECHIFY, SPEECHIFYING, SPEECHLESS, SPEECHWRITER, SPEECHWRITERS )
+	uniqueness point:  5 
+
+RUNNERS  ( 5 :  R AH1 N ER0 Z )
+	 1 :  7461 competitors ( more than 20 )
+	 2 :  313 competitors ( more than 20 )
+	 3 :  40 competitors ( more than 20 )
+	 4 :  3 competitors ( RUNNER, RUNNER'S, RUNNER-UP )
+	 5 :  1 competitors ( RUNNER'S )
+	uniqueness point:  6 
+
+CORNER  ( 5 :  K AO1 R N ER0 )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  575 competitors ( more than 20 )
+	 3 :  381 competitors ( more than 20 )
+	 4 :  58 competitors ( more than 20 )
+	 5 :  8 competitors ( CORNERBACK, CORNERED, CORNERING, CORNERS, CORNERSTONE, CORNERSTONES, KOERNER, KORNER )
+	uniqueness point:  6 
+
+PAPER  ( 4 :  P EY1 P ER0 )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  226 competitors ( more than 20 )
+	 3 :  26 competitors ( more than 20 )
+	 4 :  20 competitors ( PAPER'S, PAPERBACK, PAPERBACKS, PAPERBOARD, PAPERBOY, PAPERBOY'S, PAPERBOYS, PAPERED, PAPERING, PAPERLESS, PAPERMATE, PAPERNICK, PAPERS, PAPERS', PAPERWEIGHT, PAPERWORK, PAPERWORKER, PAPERWORKERS, PAPERY, PAPIER-MACHE )
+	uniqueness point:  5 
+
+PROJECTOR  ( 8 :  P R AA0 JH EH1 K T ER0 )
+	 1 :  7800 competitors ( more than 20 )
+	 2 :  1767 competitors ( more than 20 )
+	 3 :  30 competitors ( more than 20 )
+	 4 :  12 competitors ( PROJECT(1), PROJECTED, PROJECTILE, PROJECTILE(1), PROJECTILES, PROJECTILES(1), PROJECTING, PROJECTION, PROJECTIONS, PROJECTIVE, PROJECTORS, PROJECTS(1) )
+	 5 :  12 competitors ( PROJECT(1), PROJECTED, PROJECTILE, PROJECTILE(1), PROJECTILES, PROJECTILES(1), PROJECTING, PROJECTION, PROJECTIONS, PROJECTIVE, PROJECTORS, PROJECTS(1) )
+	 6 :  12 competitors ( PROJECT(1), PROJECTED, PROJECTILE, PROJECTILE(1), PROJECTILES, PROJECTILES(1), PROJECTING, PROJECTION, PROJECTIONS, PROJECTIVE, PROJECTORS, PROJECTS(1) )
+	 7 :  10 competitors ( PROJECT(1), PROJECTED, PROJECTILE, PROJECTILE(1), PROJECTILES, PROJECTILES(1), PROJECTING, PROJECTIVE, PROJECTORS, PROJECTS(1) )
+	 8 :  1 competitors ( PROJECTORS )
+	uniqueness point:  9 
+
+FABRIC  ( 6 :  F AE1 B R IH0 K )
+	 1 :  5586 competitors ( more than 20 )
+	 2 :  283 competitors ( more than 20 )
+	 3 :  20 competitors ( FAB, FABBRI, FABEL, FABERGE, FABIEN, FABRI, FABRICANT, FABRICATE, FABRICATED, FABRICATED(1), FABRICATES, FABRICATING, FABRICATOR, FABRICATORS, FABRICS, FABRIS, FABRON, FABRY, FABULOUS, FABULOUSLY )
+	 4 :  14 competitors ( FABBRI, FABRI, FABRICANT, FABRICATE, FABRICATED, FABRICATED(1), FABRICATES, FABRICATING, FABRICATOR, FABRICATORS, FABRICS, FABRIS, FABRON, FABRY )
+	 5 :  9 competitors ( FABRICANT, FABRICATED, FABRICATED(1), FABRICATES, FABRICATING, FABRICATOR, FABRICATORS, FABRICS, FABRIS )
+	 6 :  8 competitors ( FABRICANT, FABRICATED, FABRICATED(1), FABRICATES, FABRICATING, FABRICATOR, FABRICATORS, FABRICS )
+	uniqueness point:  7 
+
+MANICURIST  ( 10 :  M AE1 N IH0 K Y ER2 IH0 S T )
+	 1 :  9491 competitors ( more than 20 )
+	 2 :  1039 competitors ( more than 20 )
+	 3 :  215 competitors ( more than 20 )
+	 4 :  29 competitors ( more than 20 )
+	 5 :  5 competitors ( MANIC, MANICURE, MANICURED, MANIK, MANNIX )
+	 6 :  2 competitors ( MANICURE, MANICURED )
+	 7 :  0 competitors (  )
+	uniqueness point:  7 
+
+STATION  ( 6 :  S T EY1 SH AH0 N )
+	 1 :  12487 competitors ( more than 20 )
+	 2 :  2351 competitors ( more than 20 )
+	 3 :  145 competitors ( more than 20 )
+	 4 :  9 competitors ( STATION'S, STATIONARY, STATIONED, STATIONER, STATIONERS, STATIONERY, STATIONING, STATIONS, STATIONS' )
+	 5 :  9 competitors ( STATION'S, STATIONARY, STATIONED, STATIONER, STATIONERS, STATIONERY, STATIONING, STATIONS, STATIONS' )
+	 6 :  9 competitors ( STATION'S, STATIONARY, STATIONED, STATIONER, STATIONERS, STATIONERY, STATIONING, STATIONS, STATIONS' )
+	uniqueness point:  7 
+
+ENGINEER  ( 7 :  EH1 N JH AH0 N IH1 R )
+	 1 :  2009 competitors ( more than 20 )
+	 2 :  244 competitors ( more than 20 )
+	 3 :  9 competitors ( ENGE, ENGEMAN, ENGINE, ENGINE'S, ENGINED, ENGINEERING, ENGINEERS, ENGINEERS', ENGINES )
+	 4 :  7 competitors ( ENGINE, ENGINE'S, ENGINED, ENGINEERING, ENGINEERS, ENGINEERS', ENGINES )
+	 5 :  7 competitors ( ENGINE, ENGINE'S, ENGINED, ENGINEERING, ENGINEERS, ENGINEERS', ENGINES )
+	 6 :  3 competitors ( ENGINEERING, ENGINEERS, ENGINEERS' )
+	 7 :  3 competitors ( ENGINEERING, ENGINEERS, ENGINEERS' )
+	uniqueness point:  8 
+
+INSTRUCTOR  ( 9 :  IH2 N S T R AH1 K T ER0 )
+	 1 :  2039 competitors ( more than 20 )
+	 2 :  1419 competitors ( more than 20 )
+	 3 :  216 competitors ( more than 20 )
+	 4 :  64 competitors ( more than 20 )
+	 5 :  22 competitors ( more than 20 )
+	 6 :  10 competitors ( INSTRUCT, INSTRUCTED, INSTRUCTED(1), INSTRUCTING, INSTRUCTION, INSTRUCTIONAL, INSTRUCTIONS, INSTRUCTIVE, INSTRUCTORS, INSTRUCTS )
+	 7 :  10 competitors ( INSTRUCT, INSTRUCTED, INSTRUCTED(1), INSTRUCTING, INSTRUCTION, INSTRUCTIONAL, INSTRUCTIONS, INSTRUCTIVE, INSTRUCTORS, INSTRUCTS )
+	 8 :  7 competitors ( INSTRUCT, INSTRUCTED, INSTRUCTED(1), INSTRUCTING, INSTRUCTIVE, INSTRUCTORS, INSTRUCTS )
+	 9 :  1 competitors ( INSTRUCTORS )
+	uniqueness point:  10 
+
+CADET  ( 5 :  K AH0 D EH1 T )
+	 1 :  12935 competitors ( more than 20 )
+	 2 :  1485 competitors ( more than 20 )
+	 3 :  17 competitors ( CADAVER, CADAVERS, CADENA, CADETS, CADIDDLEHOPPER, CADIZ, CADOTTE, CADRONE, CADRONE(1), CODERRE, CODRESCU, CODRESCU'S, GHADAFI(1), KADAR(1), KADRESCU, KADUMI, KHADAFI )
+	 4 :  2 competitors ( CADETS, CODERRE )
+	 5 :  1 competitors ( CADETS )
+	uniqueness point:  6 
+
+BASKET  ( 6 :  B AE1 S K AH0 T )
+	 1 :  9684 competitors ( more than 20 )
+	 2 :  756 competitors ( more than 20 )
+	 3 :  59 competitors ( more than 20 )
+	 4 :  19 competitors ( BASCAY, BASCOM, BASK, BASKED, BASKERVILLE, BASKETBALL, BASKETBALL'S, BASKETBALLS, BASKETMAKER, BASKETMAKING, BASKETRY, BASKETS, BASKETT, BASKIN, BASKING, BASKINS, BASKS, BASQUE, BASQUES )
+	 5 :  8 competitors ( BASCOM, BASKETBALL, BASKETBALL'S, BASKETBALLS, BASKETMAKER, BASKETMAKING, BASKETRY, BASKETS )
+	 6 :  7 competitors ( BASKETBALL, BASKETBALL'S, BASKETBALLS, BASKETMAKER, BASKETMAKING, BASKETRY, BASKETS )
+	uniqueness point:  7 
+
